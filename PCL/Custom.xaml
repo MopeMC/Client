@@ -1,0 +1,118 @@
+﻿
+<!-- 这是 PCL2 的主页自定义文件。你可以通过修改这个文件来自定义你的 PCL2 主页：添加文本、打开网页、启动游戏等等。目前它还不能做到太多事情，但将来会变得越来越强大。
+     如果你倒腾这个文件把 PCL2 玩炸了，把这个文件直接删除就行了。
+     如果你懂得 WPF 的布局文件编写，你甚至可以做出不少的新玩意儿…… -->
+
+<local:MyCard Title="欢迎使用钉钉村客户端" Margin="0,0,0,15" CanSwap="True" IsSwaped="False">
+    <StackPanel Margin="25,40,23,15">
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,2"
+                   Text="进游戏之前请确保已阅读服规" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,2" 
+                   Text="任何违规行为都将受到严厉处罚"/>
+        <TextBlock TextWrapping="Wrap" Margin="20,10,0,12"
+                   Text="服规地址：https://www.dingcraft.fun/rule" />
+		<local:MyButton Margin="0,0,0,2" Width="140" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
+                   Text="打开服规地址" Tag="链接-https://www.dingcraft.fun/rule" />
+    </StackPanel>
+</local:MyCard>
+
+<local:MyCard Title="快速启动" Margin="0,0,0,15">
+    <StackPanel Margin="25,40,23,15">
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,2"
+                   Text="请选择最合适你电脑的版本。高中配电脑请选择1.16启动，实在带不动1.16的请点击1.15版本启动" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,2"
+                   Text="使用低版本进入服务器可能会导致高版本物品被材质或性质相近的方块/生物代替，虽然合成表和属性一样，但是毕竟看着不噜~嘛" />
+        <StackPanel Orientation="Horizontal">
+            <local:MyButton Margin="0,0,20,2" Width="140" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0" ColorType="Highlight"
+                   Text="1.16 高清修复" Tag="启动-Optifine" />
+            <local:MyButton Margin="0,0,20,2" Width="140" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0" ColorType="Highlight"
+                   Text="1.16 极致优化" Tag="启动-极限优化" />
+            <local:MyButton Margin="0,0,20,2" Width="140" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0" ColorType="Highlight"
+                   Text="1.15 高清修复" Tag="启动-1.15 OptiFine" />
+			<local:MyButton Margin="0,0,20,2" Width="140" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
+                   Text="1.14" Tag="启动-1.14.4 OptiFine" />
+        </StackPanel>
+    </StackPanel>
+</local:MyCard>
+
+<local:MyCard Title="活动" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
+    <StackPanel Margin="25,40,23,15">
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,2"
+                   Text="所有的活动、公告和新版客户端都会在下面按钮链接中发布，请时刻关注官网哦" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,2"
+                   Text="钉钉村每一次的活动都会有十分丰富的服务器礼品，欢迎玩家积极参加活动" />
+		<local:MyButton Margin="0,0,0,2" Width="140" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
+                   Text="打开公告地址" Tag="链接-https://www.dingcraft.fun/announcements" />
+    </StackPanel>
+</local:MyCard>
+
+<local:MyCard Title="帮助服务器" Margin="0,0,0,15" CanSwap="True" IsSwaped="False">
+    <StackPanel Margin="25,40,23,15">
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,2"
+                   Text="帮助服务器有很多方式，你可以通过宣传服务器、顶宣传贴、邀请玩家和资助服务器等方式帮助服务器" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,10"
+                   Text="资助服务器和邀请玩家后会有相应的权限组，顶帖会有金币相送" />
+		<StackPanel Orientation="Horizontal">
+			<local:MyButton Margin="0,0,20,2" Width="140" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
+				   Text="打开宣传贴" Tag="链接-https://www.mcbbs.net/thread-1081665-1-1.html" />
+			<local:MyButton Margin="0,0,20,2" Width="140" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
+				   Text="打开爱发电" Tag="链接-https://afdian.net/@dingcraft" />
+		</StackPanel>
+    </StackPanel>
+</local:MyCard>
+
+
+<local:MyCard Title="FAQ" Margin="0,0,0,15" CanSwap="True" IsSwaped="False">
+    <StackPanel Margin="25,40,23,15">
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,10"
+                   Text="常见问题及解答" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,2"
+                   Text="如果你要问问题，那么要具备这些要素：" />
+		<TextBlock TextWrapping="Wrap" Margin="0,0,0,2"
+                   Text="语言清晰明了，如为崩溃请附上日志，态度谦和" />
+		<TextBlock TextWrapping="Wrap" Margin="0,0,0,2"
+                   Text="请先用以下工具解决你的问题，之后再问群友 没有人义务为你解答问题" />
+        <StackPanel Orientation="Horizontal">
+            <local:MyButton Margin="0,0,20,2" Width="140" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0" ColorType="Highlight"
+                   Text="WIKI" Tag="链接-https://minecraft-zh.gamepedia.com/index.php" />
+            <local:MyButton Margin="0,0,20,2" Width="140" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0" ColorType="Highlight"
+                   Text="BING" Tag="链接-https://cn.bing.com" />
+			<local:MyButton Margin="0,0,20,2" Width="140" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
+                   Text="百度" Tag="链接-https://baidu.com" />
+            <local:MyButton Margin="0,0,20,2" Width="180" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
+                   Text="GOOGLE(需要魔法)" Tag="链接-https://google.com" />
+        </StackPanel>
+    </StackPanel>
+</local:MyCard>
+
+<!-- 
+
+常见的属性列表
+
+通用属性：
+ - Width、Height：设置宽度与高度
+ - ToolTip：设置鼠标指向时的提示文本
+ - Foreground：调整前景颜色（十六进制字符串，例如 #FF010203 代表 ARGB 中的 255,1,2,3。前两位代表不透明度，FF 为全不透明，00 为全透明）
+ - Background：调整背景颜色（使用类似 Background="{DynamicResource ColorBrush5}" 的格式以调用 PCL2 当前的主题颜色，修改末尾的数字编号以改变颜色浓度）
+ - Margin：调整外边距（格式为 左,上,右,下。例如 Margin="0,0,0,2" 即为 2 单位的下边距）
+ - HorizontalAlignment：设置对齐方式（Left、Center、Right）
+
+TextBlock 属性：
+ - Text：设置显示的文本（&#xA; 代表换行）
+ - TextWrapping：开启自动换行
+ - FontSize：设置字号
+
+local:MyButton 属性：
+ - Text：设置显示的文本
+ - Padding：设置内边距，格式与 Margin 一致
+ - ColorType：设置颜色主题（Normal、Highlight、Red 三选一，默认为 Normal）
+ - Tag：设置点击时的操作
+     Tag="启动-1.12.2"：点击时启用当前 Minecraft 文件夹下的 1.12.2 版本，如果没有则弹出错误提示
+	 Tag="链接-https://www.baidu.com/"：点击时打开网页
+
+local:MyCard 属性：
+ - Title：设置显示的标题文本
+ - CanSwap：这张卡片是否可以折叠，True 为是，False 为否
+ - IsSwaped：这张卡片是否默认折叠，要求 CanSwap 必须为 True
+
+-->

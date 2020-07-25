@@ -1,0 +1,793 @@
+[18:03:07.674] [Start] 程序版本：Beta 2（168）
+[18:03:07.682] [Start] 识别码：AE25-F6A1-C02E-DE8C
+[18:03:07.704] [Start] 第一阶段加载用时：391 ms
+[18:03:08.007] [Start] 版本号从 157 升高到 168
+[18:03:08.036] [UI] 刷新主题：0
+[18:03:08.105] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[18:03:08.106] [Start] 第二阶段加载用时：391 ms
+[18:03:08.181] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[18:03:09.423] [Start] 加载 DLL：NAudio
+[18:03:09.883] [Start] 第三阶段加载用时：500 ms
+[18:03:09.886] [Start] 加载 DLL：Json
+[18:03:09.902] [Launch] 没有已储存的 Minecraft 文件夹
+[18:03:09.910] [Setup] 当前选择的 Minecraft 文件夹：C:\Users\91983\AppData\Roaming\.minecraft\
+[18:03:09.910] [Launch] Minecraft 文件夹：C:\Users\91983\AppData\Roaming\.minecraft\
+[18:03:09.916] [System] 执行外部命令并等待返回结果：C:\Program Files (x86)\Minecraft Launcher\runtime\jre-x64\bin\java.exe -version
+[18:03:09.967] [Loader] 加载器 Loader Skin Mojang 状态改变：Loading
+[18:03:09.979] [Net] 获取网络结果：https://sessionserver.mojang.com/session/minecraft/profile/9a9be88d0bc642f7931a6025b912133c，最大超时 10000
+[18:03:10.396] [Loader] 加载器 Feedback Page 状态改变：Loading
+[18:03:10.444] [Net] 获取网络结果：https://jinshuju.net/f/rP4b6E/r/rP4b6E/share_entries?per_page=300，最大超时 10000
+[18:03:10.448] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[18:03:10.453] [Loader] 加载器 PCL2 服务 状态改变：Loading
+[18:03:10.454] [Server] 正在连接到 PCL2 服务器
+[18:03:10.454] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[18:03:10.533] [Net] 获取网络结果：http://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1595671390-4bf5f2d4-0-4f7c8bde3e408fb0ef1b4b33ed6bac4e，最大超时 10000
+[18:03:10.842] [Server] 服务器公告编号：9，无需更新
+[18:03:10.843] [Net] 获取网络结果：http://pcl2-server-1253424809.file.myqcloud.com/notice.json?sign=1595671391-2115440c-0-3bec2c24ffa019b83cc141b2b77e96d8，最大超时 10000
+[18:03:11.522] [Loader] 加载器 PCL2 服务 状态改变：Finished
+[18:03:14.421] [Control] 按下按钮：版本选择
+[18:03:14.545] [Control] 切换主要页面：VersionSelect, 0
+[18:03:14.568] [Control] 普通弹窗：Minecraft 更新提示
+新版本：20w30a
+更新时间：2020/7/22 星期三 23:05:15
+[18:03:14.581] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[18:03:15.020] [Minecraft] 有效的 Minecraft 文件夹：官方启动器文件夹 > C:\Users\91983\AppData\Roaming\.minecraft\
+[18:03:15.042] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[18:03:15.042] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[18:03:15.275] [Minecraft] 文件夹列表变更，重载所有版本
+[18:03:16.401] [Control] 按下按钮：取消
+[18:03:16.403] [Control] 普通弹框返回：3
+[18:03:16.443] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[18:03:16.548] 未找到版本 Json 文件
+   在 PCL.ModMinecraft.McVersion.get_JsonText()
+   在 PCL.ModMinecraft.McVersion.get_JsonObject()
+   在 PCL.ModMinecraft.McVersion.Check()
+[18:03:16.817] [Loader] 加载器 Feedback Page 状态改变：Finished
+[18:03:17.500] 未找到版本 Json 文件
+   在 PCL.ModMinecraft.McVersion.get_JsonText()
+   在 PCL.ModMinecraft.McVersion.get_JsonObject()
+   在 PCL.ModMinecraft.McVersion.Check()
+[18:03:17.503] 未找到版本 Json 文件
+   在 PCL.ModMinecraft.McVersion.get_JsonText()
+   在 PCL.ModMinecraft.McVersion.get_JsonObject()
+   在 PCL.ModMinecraft.McVersion.Check()
+[18:03:17.741] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[18:03:18.038] [Setup] 当前选择的 Minecraft 版本：1.15.2
+[18:03:18.038] [Minecraft] 选择该文件夹储存的 Minecraft 版本：C:\Users\91983\AppData\Roaming\.minecraft\versions\1.15.2\
+[18:03:19.675] [Net] 直接下载文件：http://textures.minecraft.net/texture/79ca04dcd3a17a2c15fb29b2883b99df0847a7cc6104d89c0becf1778bbd554a
+[18:03:21.223] [Minecraft] Java 路径：C:\Program Files (x86)\Minecraft Launcher\runtime\jre-x64\bin\
+[18:03:22.022] [Loader] 加载器 登录 状态改变：Loading
+[18:03:22.025] [Launch] 登录线程已启动
+[18:03:22.027] [Loader] 加载器 Loader Login Mojang 状态改变：Loading
+[18:03:22.030] [Launch] 登录方式：正版（haohaostudio-mine@foxmail.com）
+[18:03:22.031] [Launch] 验证登录开始（Validate, Mojang）
+[18:03:22.033] [Net] 发起网络请求（https://authserver.mojang.com/validate），最大超时 10000
+[18:03:23.956] [Launch] 验证登录失败：远程服务器返回错误: (403) 已禁止。 → 网络请求失败（https://authserver.mojang.com/validate）
+[18:03:23.958] [Launch] 刷新登录开始（Refresh, Mojang）
+[18:03:23.958] [Net] 发起网络请求（https://authserver.mojang.com/refresh），最大超时 10000
+[18:03:24.049] [UI] 选择文件返回：
+[18:03:24.049] [Control] 按下单击列表项：安装整合包
+[18:03:24.248] [Minecraft] 皮肤下载成功：C:\Users\91983\AppData\Local\Temp\PCL\Cache\Skin\155306709400171804.png
+[18:03:24.248] [Loader] 加载器 Loader Skin Mojang 状态改变：Finished
+[18:03:24.253] [Skin] 载入头像成功：Loader Skin Mojang
+[18:03:24.582] [Setup] 当前选择的 Minecraft 文件夹：C:\Users\91983\Desktop\客户端\.minecraft\
+[18:03:24.582] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[18:03:24.583] [Control] 按下单击列表项：新建 .minecraft 文件夹
+[18:03:24.606] [UI] 弹出提示：新建 .minecraft 文件夹成功！
+[18:03:24.662] [Minecraft] 已创建 launcher_profiles.json：C:\Users\91983\Desktop\客户端\.minecraft\
+[18:03:24.668] [Minecraft] 有效的 Minecraft 文件夹：当前文件夹 > C:\Users\91983\Desktop\客户端\.minecraft\
+[18:03:24.672] [Minecraft] 有效的 Minecraft 文件夹：官方启动器文件夹 > C:\Users\91983\AppData\Roaming\.minecraft\
+[18:03:24.678] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[18:03:24.678] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[18:03:24.774] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[18:03:24.779] [Setup] 当前选择的 Minecraft 版本：
+[18:03:24.782] [Minecraft] 未找到可用 Minecraft 版本
+[18:03:25.774] [Launch] 刷新登录失败：远程服务器返回错误: (403) 已禁止。 → 网络请求失败（https://authserver.mojang.com/refresh）
+[18:03:25.777] [Launch] 登录开始（Login, Mojang）
+[18:03:25.777] [Net] 发起网络请求（https://authserver.mojang.com/authenticate），最大超时 10000
+[18:03:27.570] [Launch] 登录失败：$登录失败：账号密码错误，或登录尝试过于频繁，导致暂时被禁止登录。 如果你确定你输入的账号密码是正确的，请暂时不要再尝试登录，等待至少 5 分钟后再试。
+[18:03:27.572] $登录失败：账号密码错误，或登录尝试过于频繁，导致暂时被禁止登录。
+如果你确定你输入的账号密码是正确的，请暂时不要再尝试登录，等待至少 5 分钟后再试。
+   在 PCL.ModLaunch.McLoginRequestLogin(LoaderTask`2& Data)
+   在 PCL.ModLaunch.McLoginServerStart(LoaderTask`2 Data)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__1()
+[18:03:27.572] [Loader] 加载器 Loader Login Mojang 状态改变：Failed
+[18:03:27.961] $登录失败：账号密码错误，或登录尝试过于频繁，导致暂时被禁止登录。
+如果你确定你输入的账号密码是正确的，请暂时不要再尝试登录，等待至少 5 分钟后再试。
+Caused by: $登录失败：账号密码错误，或登录尝试过于频繁，导致暂时被禁止登录。
+如果你确定你输入的账号密码是正确的，请暂时不要再尝试登录，等待至少 5 分钟后再试。
+   在 Microsoft.VisualBasic.CompilerServices.Symbols.Container.InvokeMethod(Method TargetProcedure, Object[] Arguments, Boolean[] CopyBack, BindingFlags Flags)
+   在 Microsoft.VisualBasic.CompilerServices.NewLateBinding.CallMethod(Container BaseReference, String MethodName, Object[] Arguments, String[] ArgumentNames, Type[] TypeArguments, Boolean[] CopyBack, BindingFlags InvocationFlags, Boolean ReportErrors, ResolutionFailure& Failure)
+   在 Microsoft.VisualBasic.CompilerServices.NewLateBinding.ObjectLateCall(Object Instance, Type Type, String MemberName, Object[] Arguments, String[] ArgumentNames, Type[] TypeArguments, Boolean[] CopyBack, Boolean IgnoreReturn)
+   在 Microsoft.VisualBasic.CompilerServices.NewLateBinding.LateCall(Object Instance, Type Type, String MemberName, Object[] Arguments, String[] ArgumentNames, Type[] TypeArguments, Boolean[] CopyBack, Boolean IgnoreReturn)
+   在 PCL.ModLaunch.McLoginStart(LoaderTask`2 Data)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__1()
+   在 PCL.ModLaunch.McLoginRequestLogin(LoaderTask`2& Data)
+   在 PCL.ModLaunch.McLoginServerStart(LoaderTask`2 Data)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__1()
+[18:03:27.961] [Loader] 加载器 登录 状态改变：Failed
+[18:03:35.931] [UI] 选择文件返回：C:\Users\91983\Desktop\钉钉村客户端.zip
+[18:03:35.982] [Control] 按下单击列表项：安装整合包
+[18:03:35.983] [UI] 弹出提示：未能识别该整合包的种类，无法安装！
+[18:03:50.836] [Control] 按下图标按钮：BtnTitleInner
+[18:03:50.845] [Control] 切换主要页面：Launch, -1
+[18:03:50.969] [Minecraft] 启动按钮：无 Minecraft 版本，要求下载
+[18:03:52.081] [Control] 按下单选按钮：设置
+[18:03:52.178] [Control] 切换主要页面：Setup, -1
+[18:03:52.265] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[18:03:52.268] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[18:03:52.268] [Loader] 加载器 Java Loader 状态改变：Loading
+[18:03:52.272] [System] 执行外部命令并等待返回结果：C:\Program Files (x86)\Minecraft Launcher\runtime\jre-x64\bin\java.exe -version
+[18:03:52.644] [System] 执行外部命令并等待返回结果：C:\ProgramData\BadlionClient\jre\bin\java.exe -version
+[18:03:53.273] [System] 执行外部命令并等待返回结果：E:\MC\服务端\MinecraftHao\配置的服务器\1.12 Minecraft hao\Java\bin\java.exe -version
+[18:03:54.590] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jdk1.8.0_231\bin\java.exe -version
+[18:03:55.248] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jdk1.8.0_231\jre\bin\java.exe -version
+[18:03:55.765] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jre1.8.0_231\bin\java.exe -version
+[18:03:56.346] [Minecraft] 开始搜索 Java
+[18:03:57.838] [Minecraft] 位于 C:\Program Files (x86)\Common Files\Oracle\Java\javapath\ 的 Java 包含符号链接
+[18:03:57.840] [Minecraft] 位于 C:\ProgramData\Oracle\Java\javapath\ 的 Java 包含符号链接
+[18:03:57.847] [Minecraft] 搜索到的 Java 列表：
+[18:03:57.848] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jdk-14.0.1\\bin\java.exe -version
+[18:03:58.369] [Minecraft] Java 14 (14.0.1)，64 位：C:\Program Files\Java\jdk-14.0.1\\bin\
+[18:03:58.369] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jdk-14.0.1\bin\java.exe -version
+[18:03:58.728] [Minecraft] Java 14 (14.0.1)，64 位：C:\Program Files\Java\jdk-14.0.1\bin\
+[18:03:58.729] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jdk1.8.0_231\bin\java.exe -version
+[18:03:59.078] [Minecraft] Java 8 (1.8.0.231)，64 位：C:\Program Files\Java\jdk1.8.0_231\bin\
+[18:03:59.079] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jdk1.8.0_231\jre\bin\java.exe -version
+[18:03:59.444] [Minecraft] Java 8 (1.8.0.231)，64 位：C:\Program Files\Java\jdk1.8.0_231\jre\bin\
+[18:03:59.445] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jre1.8.0_231\bin\java.exe -version
+[18:03:59.792] [Minecraft] Java 8 (1.8.0.231)，64 位：C:\Program Files\Java\jre1.8.0_231\bin\
+[18:03:59.792] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jre1.8.0_261\bin\java.exe -version
+[18:04:00.153] [Minecraft] Java 8 (1.8.0.261)，64 位：C:\Program Files\Java\jre1.8.0_261\bin\
+[18:04:00.153] [System] 执行外部命令并等待返回结果：C:\Program Files (x86)\Common Files\Oracle\Java\javapath_target_1452421\java.exe -version
+[18:04:00.538] [Minecraft] Java 8 (1.8.0.261)，64 位：C:\Program Files (x86)\Common Files\Oracle\Java\javapath_target_1452421\
+[18:04:00.538] [System] 执行外部命令并等待返回结果：C:\Program Files (x86)\Minecraft Launcher\runtime\jre-x64\bin\java.exe -version
+[18:04:00.850] [Minecraft] Java 8 (1.8.0.51)，64 位：C:\Program Files (x86)\Minecraft Launcher\runtime\jre-x64\bin\
+[18:04:00.850] [System] 执行外部命令并等待返回结果：C:\ProgramData\BadlionClient\jre\bin\java.exe -version
+[18:04:01.194] [Minecraft] Java 8 (1.8.0.51)，64 位：C:\ProgramData\BadlionClient\jre\bin\
+[18:04:01.195] [System] 执行外部命令并等待返回结果：C:\ProgramData\Oracle\Java\javapath_target_62705171\java.exe -version
+[18:04:01.534] [Minecraft] Java 8 (1.8.0.261)，64 位：C:\ProgramData\Oracle\Java\javapath_target_62705171\
+[18:04:01.534] [System] 执行外部命令并等待返回结果：E:\MC\我的世界精灵\java\jre7\bin\java.exe -version
+[18:04:02.950] [Minecraft] Java 7 (1.7.0.76)，64 位：E:\MC\我的世界精灵\java\jre7\bin\
+[18:04:02.950] [System] 执行外部命令并等待返回结果：E:\MC\服务端\MinecraftHao\配置的服务器\1.12 Minecraft hao\Java\bin\java.exe -version
+[18:04:03.314] [Minecraft] Java 8 (1.8.0.144)，64 位：E:\MC\服务端\MinecraftHao\配置的服务器\1.12 Minecraft hao\Java\bin\
+[18:04:03.314] 未找到 javaw.exe 文件
+错误类型：System.IO.FileNotFoundException
+[18:04:03.314] 未找到 javaw.exe 文件
+错误类型：System.IO.FileNotFoundException
+[18:04:03.315] [Minecraft] 已选择的 Java：Java 8 (1.8.0.51)，64 位：C:\Program Files (x86)\Minecraft Launcher\runtime\jre-x64\bin\
+[18:04:03.316] [Loader] 加载器 Java Loader 状态改变：Finished
+[18:04:03.319] [Setup] 手动选择 Java：Java 8 (1.8.0.51)，64 位：C:\Program Files (x86)\Minecraft Launcher\runtime\jre-x64\bin\
+[18:06:11.607] [Control] 按下单选按钮：主页
+[18:06:11.627] [Control] 切换主要页面：Launch, -1
+[18:06:13.095] [Control] 按下按钮：版本选择
+[18:06:13.107] [Control] 切换主要页面：VersionSelect, 0
+[18:06:13.217] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[18:06:13.220] [Minecraft] 文件夹列表变更，重载所有版本
+[18:06:13.323] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[18:06:13.334] [Setup] 当前选择的 Minecraft 版本：Optifine（渣机请移步极限优化）
+[18:06:13.335] [Launch] 自动选择 Minecraft 版本：C:\Users\91983\Desktop\客户端\.minecraft\versions\Optifine（渣机请移步极限优化）\
+[18:06:21.161] [Control] 按下图标按钮
+[18:06:21.208] [Control] 切换主要页面：VersionSetup, 0
+[18:06:24.334] [Report] FPS 0, 动画 10, 下载中 0
+[18:06:36.265] [UI] 选择文件返回：E:\MC钉钉村\@图片\Logo.png
+[18:06:36.337] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[18:06:36.343] [Minecraft] 文件夹列表变更，重载所有版本
+[18:06:36.424] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[18:06:36.442] [Minecraft] 选择该文件夹储存的 Minecraft 版本：C:\Users\91983\Desktop\客户端\.minecraft\versions\Optifine（渣机请移步极限优化）\
+[18:06:39.151] [Control] 按下按钮：重命名版本
+[18:06:39.254] [Control] 输入弹窗：重命名版本
+[18:06:44.180] [Control] 按下按钮：确定
+[18:06:44.182] [Control] 输入弹框返回：Optifine
+[18:06:44.273] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[18:06:44.274] [UI] 弹出提示：重命名成功！
+[18:06:44.276] [Minecraft] 文件夹列表变更，重载所有版本
+[18:06:44.340] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[18:06:44.359] [Setup] 当前选择的 Minecraft 版本：Optifine
+[18:06:44.359] [Minecraft] 选择该文件夹储存的 Minecraft 版本：C:\Users\91983\Desktop\客户端\.minecraft\versions\Optifine\
+[18:06:45.696] [Control] 按下按钮：更改描述
+[18:06:45.752] [Control] 输入弹窗：更改描述
+[18:07:04.409] [Control] 按下按钮：确定
+[18:07:04.409] [Control] 输入弹框返回：渣机请移步[极限优化]
+[18:07:04.447] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[18:07:04.460] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[18:07:04.482] [Minecraft] 选择该文件夹储存的 Minecraft 版本：C:\Users\91983\Desktop\客户端\.minecraft\versions\Optifine\
+[18:07:06.221] [Control] 按下图标按钮：BtnTitleInner
+[18:07:06.239] [Control] 切换主要页面：VersionSelect, -1
+[18:07:07.534] [Setup] 当前选择的 Minecraft 版本：极限优化（开光影请用Optifine）
+[18:07:07.551] [Control] 切换主要页面：Launch, -1
+[18:07:07.551] [Control] 按下单击列表项：极限优化（开光影请用Optifine）
+[18:07:07.655] [Minecraft] 启动按钮：Minecraft 版本：C:\Users\91983\Desktop\客户端\.minecraft\versions\极限优化（开光影请用Optifine）\
+[18:07:09.495] [Control] 按下按钮：版本选择
+[18:07:09.504] [Control] 切换主要页面：VersionSelect, 0
+[18:07:12.499] [Control] 按下图标按钮
+[18:07:12.510] [Control] 切换主要页面：VersionSetup, 0
+[18:07:18.336] [UI] 选择文件返回：E:\MC钉钉村\@图片\Logo.png
+[18:07:18.382] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[18:07:18.389] [Minecraft] 文件夹列表变更，重载所有版本
+[18:07:18.469] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[18:07:18.508] [Minecraft] 选择该文件夹储存的 Minecraft 版本：C:\Users\91983\Desktop\客户端\.minecraft\versions\极限优化（开光影请用Optifine）\
+[18:07:20.504] [Control] 按下按钮：重命名版本
+[18:07:20.538] [Control] 输入弹窗：重命名版本
+[18:07:22.784] [Control] 按下按钮：取消
+[18:07:22.784] [Control] 输入弹框返回：null
+[18:07:23.683] [Control] 按下按钮：重命名版本
+[18:07:23.749] [Control] 输入弹窗：重命名版本
+[18:07:25.897] [Control] 按下按钮：确定
+[18:07:25.897] [Control] 输入弹框返回：极限优化
+[18:07:25.948] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[18:07:25.950] [UI] 弹出提示：重命名成功！
+[18:07:25.950] [Minecraft] 文件夹列表变更，重载所有版本
+[18:07:26.019] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[18:07:26.047] [Setup] 当前选择的 Minecraft 版本：极限优化
+[18:07:26.048] [Minecraft] 选择该文件夹储存的 Minecraft 版本：C:\Users\91983\Desktop\客户端\.minecraft\versions\极限优化\
+[18:07:29.569] [Control] 按下按钮：更改描述
+[18:07:29.630] [Control] 输入弹窗：更改描述
+[18:07:48.264] [Control] 按下按钮：确定
+[18:07:48.264] [Control] 输入弹框返回：开光影请用Optifine
+[18:07:48.295] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[18:07:48.298] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[18:07:48.331] [Minecraft] 选择该文件夹储存的 Minecraft 版本：C:\Users\91983\Desktop\客户端\.minecraft\versions\极限优化\
+[18:07:50.712] [Control] 按下图标按钮：BtnTitleInner
+[18:07:50.729] [Control] 切换主要页面：VersionSelect, -1
+[18:07:53.411] [Setup] 当前选择的 Minecraft 版本：1.15optifine(给那些带不动1.16的准备的)
+[18:07:53.436] [Control] 切换主要页面：Launch, -1
+[18:07:53.436] [Control] 按下单击列表项：1.15optifine(给那些带不动1.16的准备的)
+[18:07:53.549] [Minecraft] 启动按钮：Minecraft 版本：C:\Users\91983\Desktop\客户端\.minecraft\versions\1.15optifine(给那些带不动1.16的准备的)\
+[18:07:54.993] [Control] 按下按钮：…
+[18:07:55.022] [Control] 切换主要页面：VersionSetup, 0
+[18:07:56.479] [Control] 按下图标按钮：BtnTitleInner
+[18:07:56.492] [Control] 切换主要页面：Launch, -1
+[18:07:57.743] [Control] 按下按钮：版本选择
+[18:07:57.751] [Control] 切换主要页面：VersionSelect, 0
+[18:07:59.285] [Control] 按下图标按钮
+[18:07:59.297] [Control] 切换主要页面：VersionSetup, 0
+[18:08:07.144] [UI] 选择文件返回：E:\MC钉钉村\@图片\Logo_Transparent.png
+[18:08:07.211] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[18:08:07.215] [Minecraft] 文件夹列表变更，重载所有版本
+[18:08:07.284] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[18:08:07.327] [Minecraft] 选择该文件夹储存的 Minecraft 版本：C:\Users\91983\Desktop\客户端\.minecraft\versions\1.15optifine(给那些带不动1.16的准备的)\
+[18:08:09.740] [Control] 按下按钮：重命名版本
+[18:08:09.803] [Control] 输入弹窗：重命名版本
+[18:08:16.498] [Control] 按下按钮：确定
+[18:08:16.498] [Control] 输入弹框返回：1.15 OptiFine
+[18:08:16.545] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[18:08:16.547] [UI] 弹出提示：重命名成功！
+[18:08:16.547] [Minecraft] 文件夹列表变更，重载所有版本
+[18:08:16.600] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[18:08:16.642] [Setup] 当前选择的 Minecraft 版本：1.15 OptiFine
+[18:08:16.642] [Minecraft] 选择该文件夹储存的 Minecraft 版本：C:\Users\91983\Desktop\客户端\.minecraft\versions\1.15 OptiFine\
+[18:08:18.434] [Control] 按下按钮：更改描述
+[18:08:18.477] [Control] 输入弹窗：更改描述
+[18:08:32.502] [Control] 按下按钮：确定
+[18:08:32.502] [Control] 输入弹框返回：尽量使用1.16 如实在带不动，用1.15
+[18:08:32.528] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[18:08:32.530] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[18:08:32.570] [Minecraft] 选择该文件夹储存的 Minecraft 版本：C:\Users\91983\Desktop\客户端\.minecraft\versions\1.15 OptiFine\
+[18:08:36.723] [Control] 按下图标按钮：BtnTitleInner
+[18:08:36.739] [Control] 切换主要页面：VersionSelect, -1
+[18:08:37.828] [Setup] 当前选择的 Minecraft 版本：1.14.4（连1.15.2都带不动吗？，不会吧不会吧）
+[18:08:37.857] [Control] 切换主要页面：Launch, -1
+[18:08:37.857] [Control] 按下单击列表项：1.14.4（连1.15.2都带不动吗？，不会吧不会吧）
+[18:08:37.952] [Minecraft] 启动按钮：Minecraft 版本：C:\Users\91983\Desktop\客户端\.minecraft\versions\1.14.4（连1.15.2都带不动吗？，不会吧不会吧）\
+[18:08:39.290] [Control] 按下按钮：…
+[18:08:39.308] [Control] 切换主要页面：VersionSetup, 0
+[18:08:48.590] [UI] 选择文件返回：E:\MC钉钉村\@图片\Logo_Transparent.png
+[18:08:48.648] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[18:08:48.650] [Minecraft] 文件夹列表变更，重载所有版本
+[18:08:48.703] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[18:08:48.751] [Minecraft] 选择该文件夹储存的 Minecraft 版本：C:\Users\91983\Desktop\客户端\.minecraft\versions\1.14.4（连1.15.2都带不动吗？，不会吧不会吧）\
+[18:08:49.679] [Control] 按下按钮：重命名版本
+[18:08:49.722] [Control] 输入弹窗：重命名版本
+[18:08:56.114] [Control] 输入弹框返回：1.14.4 OptiFine
+[18:08:56.164] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[18:08:56.166] [UI] 弹出提示：重命名成功！
+[18:08:56.167] [Minecraft] 文件夹列表变更，重载所有版本
+[18:08:56.215] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[18:08:56.263] [Setup] 当前选择的 Minecraft 版本：1.14.4 OptiFine
+[18:08:56.263] [Minecraft] 选择该文件夹储存的 Minecraft 版本：C:\Users\91983\Desktop\客户端\.minecraft\versions\1.14.4 OptiFine\
+[18:08:57.245] [Control] 按下按钮：更改描述
+[18:08:57.281] [Control] 输入弹窗：更改描述
+[18:09:16.543] [Control] 按下按钮：确定
+[18:09:16.543] [Control] 输入弹框返回：啊这 1.15都带不动吗 跨版本很多bug的哦
+[18:09:16.563] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[18:09:16.565] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[18:09:16.611] [Minecraft] 选择该文件夹储存的 Minecraft 版本：C:\Users\91983\Desktop\客户端\.minecraft\versions\1.14.4 OptiFine\
+[18:09:19.384] [Control] 按下图标按钮：BtnTitleInner
+[18:09:19.409] [Control] 切换主要页面：Launch, -1
+[18:09:19.517] [Minecraft] 启动按钮：Minecraft 版本：C:\Users\91983\Desktop\客户端\.minecraft\versions\1.14.4 OptiFine\
+[18:09:20.763] [Control] 按下按钮：版本选择
+[18:09:20.773] [Control] 切换主要页面：VersionSelect, 0
+[18:09:32.820] [Setup] 当前选择的 Minecraft 版本：Optifine
+[18:09:32.856] [Control] 切换主要页面：Launch, -1
+[18:09:32.856] [Control] 按下单击列表项：Optifine
+[18:09:32.951] [Minecraft] 启动按钮：Minecraft 版本：C:\Users\91983\Desktop\客户端\.minecraft\versions\Optifine\
+[18:09:34.729] [Control] 按下单选按钮：下载
+[18:09:34.777] [Control] 切换主要页面：Download, -1
+[18:09:34.875] [Loader] 加载器 DlClientList Main 状态改变：Loading
+[18:09:34.877] [Loader] 加载器 DlOptiFineList Main 状态改变：Loading
+[18:09:34.879] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Loading
+[18:09:34.881] [Loader] 加载器 DlFabricList Main 状态改变：Loading
+[18:09:34.881] [Loader] 加载器 CurseForge Project 306612# Files 状态改变：Loading
+[18:09:34.883] [Download] 开始获取 CurseForge 工程 ID 为 306612 的文件列表
+[18:09:34.883] [Net] 获取网络结果：https://addons-ecs.forgesvc.net/api/v2/addon/306612/files，最大超时 10000
+[18:09:34.888] [Loader] 加载器 DlOptiFineList Official 状态改变：Loading[18:09:34.889] [Net] 获取网络结果：https://meta.fabricmc.net/v2/versions，最大超时 10000
+[18:09:34.889] [Loader] 加载器 DlClientList Main 状态改变：Finished
+[18:09:34.890] [Download] 刷新 Forge 推荐版本缓存开始
+[18:09:34.891] [Net] 获取网络结果：http://dl.liteloader.com/versions/versions.json，最大超时 10000
+[18:09:34.893] [Net] 获取客户端网络结果：https://optifine.net/downloads，最大超时 10000
+[18:09:34.897] [Loader] 加载器 源码获取 509# 状态改变：Loading
+[18:09:35.034] [Download] 1938503244_508 520#：开始，起始点 0，https://bmclapi2.bangbang93.com/forge/promos
+[18:09:35.271] [Download] 1938503244_508：文件大小 23672 B（23.1 K）
+[18:09:35.311] [Download] 1938503244_508：已完成，剩余文件 0
+[18:09:35.312] [Loader] 加载器 源码获取 509# 状态改变：Finished
+[18:09:35.318] [Download] 刷新 Forge 推荐版本缓存成功
+[18:09:36.591] [Loader] 加载器 DlLiteLoaderList Official 状态改变：Finished
+[18:09:36.593] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Finished
+[18:09:36.737] [Loader] 加载器 DlFabricList Official 状态改变：Finished
+[18:09:36.744] [Loader] 加载器 DlFabricList Main 状态改变：Finished
+[18:09:36.916] [Loader] 加载器 DlOptiFineList Official 状态改变：Finished
+[18:09:36.918] [Loader] 加载器 DlOptiFineList Main 状态改变：Finished
+[18:09:36.941] [Control] 按下单选按钮：设置
+[18:09:36.966] [Control] 切换主要页面：Setup, -1
+[18:09:37.203] [Loader] 加载器 CurseForge Project 306612# Files 状态改变：Finished
+[18:09:37.913] [Report] FPS 0, 动画 7, 下载中 0
+[18:10:22.851] [Report] FPS 0, 动画 5, 下载中 0
+[18:10:28.760] [Setup] 手动选择 Java：Java 8 (1.8.0.51)，64 位：C:\ProgramData\BadlionClient\jre\bin\
+[18:10:28.799] [Setup] 手动选择 Java：Java 8 (1.8.0.144)，64 位：E:\MC\服务端\MinecraftHao\配置的服务器\1.12 Minecraft hao\Java\bin\
+[18:10:34.375] [Control] 展开卡片：高级设置
+[18:10:36.157] [Control] 折叠卡片：高级设置
+[18:10:37.044] [Control] 按下单选按钮：更多
+[18:10:37.114] [Control] 切换主要页面：Other, -1
+[18:10:38.099] [Control] 按下单选按钮：设置
+[18:10:38.120] [Control] 切换主要页面：Setup, -1
+[18:10:38.787] [Control] 按下单选列表项：功能
+[18:10:39.208] [Control] 按下单选列表项：个性化
+[18:10:41.926] [Control] 按下按钮：打开背景图片文件夹
+[18:11:20.006] [Control] 按下按钮：生成教学文件
+[18:11:20.048] [UI] 弹出提示：教程文件已生成！
+[18:11:24.168] [Control] 按下按钮：显示教程
+[18:11:24.182] [Control] 普通弹窗：主页自定义教程
+1. 点击 生成教学文件 按钮，这会在 PCL 文件夹下生成 Custom.xaml 布局文件。
+2. 使用记事本等工具打开这个文件并进行修改，修改完记得保存。
+3. 点击 刷新主页 按钮，查看主页现在长啥样了。
+
+你可以在生成教学文件后直接刷新主页，对照着进行修改，更有助于理解。
+如果要关闭主页自定义，删除 PCL 文件夹下的 Custom.xaml 文件即可。
+[18:11:37.694] [Control] 按下按钮：确定
+[18:11:39.708] [Control] 按下按钮：刷新主页
+[18:11:39.737] [Control] 切换主要页面：Launch, -1
+[18:11:39.753] [UI] 弹出提示：已刷新主页！
+[18:11:43.083] [Control] 展开卡片：教学卡片 2：卡片属性与长宽限定
+[18:11:44.424] [Control] 折叠卡片：教学卡片 2：卡片属性与长宽限定
+[18:11:54.785] [Control] 按下单选按钮：下载
+[18:11:54.802] [Control] 切换主要页面：Download, -1
+[18:11:55.176] [Control] 按下单选按钮：设置
+[18:11:55.200] [Control] 切换主要页面：Setup, -1
+[18:11:58.405] [Control] 按下按钮：刷新背景图片
+[18:11:58.407] [UI] 加载背景图片：C:\Users\91983\Desktop\客户端\PCL\Pictures\QQ图片20200607201425.png
+[18:12:08.105] [Control] 展开卡片：功能隐藏
+[18:12:10.370] [Control] 按下复选框（True）：下载
+[18:12:14.532] [Control] 按下单选列表项：启动
+[18:12:19.092] [Control] 按下单选列表项：个性化
+[18:12:23.221] [Control] 按下单选按钮：更多
+[18:12:23.242] [Control] 切换主要页面：Other, -1
+[18:12:24.321] [Control] 按下单选按钮：设置
+[18:12:24.339] [Control] 切换主要页面：Setup, -1
+[18:12:26.992] [Control] 按下复选框（True）：更多
+[18:12:32.771] [Control] 按下复选框（True）：个性化
+[18:12:32.790] [UI] 弹出提示：按 F12 即可暂时关闭功能隐藏设置。千万别忘了，要不然设置就改不回来了……
+[18:12:38.841] [Control] 按下复选框（True）：功能
+[18:12:39.742] [Control] 按下复选框（False）：功能
+[18:12:40.448] [Control] 按下复选框（True）：功能
+[18:12:41.212] [Control] 按下复选框（True）：系统
+[18:12:45.763] [Control] 按下复选框（False）：功能
+[18:12:46.767] [Control] 按下单选列表项：启动
+[18:12:47.801] [Control] 按下单选列表项：功能
+[18:12:48.508] [Report] FPS 0, 动画 5, 下载中 0
+[18:12:51.048] [UI] 弹出提示：功能隐藏设置已暂时关闭！
+[18:12:52.009] [Control] 按下单选列表项：系统
+[18:12:54.261] [Control] 按下单选列表项：功能
+[18:12:55.837] [Control] 按下单选列表项：个性化
+[18:13:00.279] [Control] 按下复选框（True）：功能
+[18:13:03.649] [Control] 按下单选列表项：功能
+[18:13:06.049] [Control] 按下单选列表项：个性化
+[18:13:12.607] [Control] 按下复选框（True）：功能隐藏
+[18:13:12.622] [UI] 弹出提示：按 F12 即可暂时关闭功能隐藏设置。千万别忘了，要不然设置就改不回来了……
+[18:13:24.746] [Control] 按下复选框（True）：背景音乐
+[18:13:26.950] [Control] 按下复选框（False）：背景音乐
+[18:13:28.572] [Control] 按下单选按钮：更多
+[18:13:28.593] [Control] 切换主要页面：Other, -1
+[18:13:29.699] [Control] 按下单选按钮：设置
+[18:13:29.716] [Control] 切换主要页面：Setup, -1
+[18:13:31.317] [Control] 按下单选按钮：主页
+[18:13:31.338] [Control] 切换主要页面：Launch, -1
+[18:13:32.067] [UI] 弹出提示：功能隐藏设置已重新开启！
+[18:13:39.354] [Control] 按下单选按钮：设置
+[18:13:39.378] [Control] 切换主要页面：Setup, -1
+[18:13:40.555] [UI] 弹出提示：功能隐藏设置已暂时关闭！
+[18:13:45.813] [Control] 按下单选框：文本
+[18:13:50.059] [Control] 按下单选框：图片
+[18:13:52.225] [UI] 选择文件返回：E:\MC钉钉村\@图片\Logo_wide.png
+[18:13:55.243] [Control] 按下按钮：清空图片
+[18:13:55.272] [UI] 弹出提示：标题栏图片已清空！
+[18:13:56.041] [Control] 按下单选框：文本
+[18:14:18.152] [Control] 按下单选框：文本
+[18:14:20.873] [Control] 按下单选列表项：功能
+[18:14:22.972] [Control] 按下单选列表项：系统
+[18:14:23.846] [Control] 按下单选列表项：功能
+[18:14:25.014] [Control] 按下单选列表项：个性化
+[18:14:26.233] [Control] 按下单选列表项：启动
+[18:14:29.597] [Control] 按下单选框：正版皮肤
+[18:14:29.598] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[18:14:29.598] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[18:14:30.587] [Control] 按下单选框：自定义
+[18:14:32.162] [UI] 选择文件返回：
+[18:14:32.162] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[18:14:32.163] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[18:14:32.815] [Control] 按下单选框：随机
+[18:14:32.817] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[18:14:32.817] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[18:14:33.442] [Control] 按下单选按钮：下载
+[18:14:33.465] [Control] 切换主要页面：Download, -1
+[18:14:33.921] [Control] 按下单选按钮：主页
+[18:14:33.942] [Control] 切换主要页面：Launch, -1
+[18:14:35.649] [UI] 弹出提示：功能隐藏设置已重新开启！
+[18:14:37.020] [Control] 按下单选按钮：设置
+[18:14:37.041] [Control] 切换主要页面：Setup, -1
+[18:14:39.374] [UI] 弹出提示：功能隐藏设置已暂时关闭！
+[18:14:40.245] [Control] 按下单选列表项：系统
+[18:14:41.100] [Control] 按下单选列表项：功能
+[18:14:42.044] [Control] 按下单选列表项：个性化
+[18:14:53.744] [Control] 按下单选按钮：主页
+[18:14:53.766] [Control] 切换主要页面：Launch, -1
+[18:14:55.681] [Control] 按下单选按钮：设置
+[18:14:55.697] [Control] 切换主要页面：Setup, -1
+[18:14:59.585] [Report] FPS 0, 动画 5, 下载中 0
+[18:15:00.273] [Control] 按下单选按钮：主页
+[18:15:00.297] [Control] 切换主要页面：Launch, -1
+[18:16:21.278] [UI] 弹出提示：登录失败，无法更改皮肤！
+[18:16:39.169] [Control] 按下图标按钮：BtnTitleMin
+[18:17:10.361] [Control] 展开卡片：教学卡片 2：卡片属性与长宽限定
+[18:17:20.721] [Control] 折叠卡片：教学卡片 2：卡片属性与长宽限定
+[18:17:22.134] [Control] 展开卡片：教学卡片 2：卡片属性与长宽限定
+[18:17:23.768] [Control] 折叠卡片：教学卡片 2：卡片属性与长宽限定
+[18:17:44.116] [Report] FPS 0, 动画 9, 下载中 0
+[18:18:13.274] [Control] 按下单选按钮：设置
+[18:18:13.290] [Control] 切换主要页面：Setup, -1
+[18:18:15.681] [Control] 按下按钮：刷新主页
+[18:18:15.712] [Control] 切换主要页面：Launch, -1
+[18:18:15.713] [UI] 弹出提示：已刷新主页！
+[18:18:31.221] [Control] 按下单选按钮：设置
+[18:18:31.236] [Control] 切换主要页面：Setup, -1
+[18:18:33.968] [Control] 按下按钮：刷新主页
+[18:18:33.995] [Control] 切换主要页面：Launch, -1
+[18:18:33.996] [UI] 弹出提示：已刷新主页！
+[18:18:36.908] [Control] 按下按钮：打开服规地址
+[18:18:36.908] [Control] 打开按钮自定义链接：链接-https://www.dingcraft.fun/rule
+[18:18:37.282] [System] 打开网页：https://www.dingcraft.fun/rule
+[18:21:21.861] [Control] 按下单选按钮：设置
+[18:21:21.882] [Control] 切换主要页面：Setup, -1
+[18:21:23.785] [Control] 按下按钮：刷新主页
+[18:21:23.817] [Control] 切换主要页面：Launch, -1
+[18:21:23.825] [UI] 弹出提示：已刷新主页！
+[18:21:25.131] [Control] 展开卡片：活动
+[18:21:37.958] [Control] 按下单选按钮：设置
+[18:21:37.972] [Control] 切换主要页面：Setup, -1
+[18:21:39.759] [Control] 按下按钮：刷新主页
+[18:21:39.796] [Control] 切换主要页面：Launch, -1
+[18:21:39.796] [UI] 弹出提示：已刷新主页！
+[18:21:40.148] [Report] FPS 0, 动画 19, 下载中 0
+[18:21:41.140] [Control] 展开卡片：活动
+[18:22:07.990] [Control] 按下单选按钮：设置
+[18:22:08.006] [Control] 切换主要页面：Setup, -1
+[18:22:10.720] [Control] 按下按钮：刷新主页
+[18:22:10.749] [Control] 切换主要页面：Launch, -1
+[18:22:10.759] [UI] 弹出提示：已刷新主页！
+[18:22:11.366] [Report] FPS 0, 动画 5, 下载中 0
+[18:22:11.821] [Control] 展开卡片：活动
+[18:22:13.830] [Control] 按下按钮：打开公告地址
+[18:22:13.830] [Control] 打开按钮自定义链接：链接-https://www.dingcraft.fun/announcements
+[18:22:14.041] [System] 打开网页：https://www.dingcraft.fun/announcements
+[18:22:23.126] [Control] 折叠卡片：活动
+[18:22:23.905] [Control] 折叠卡片：帮助服务器
+[18:22:24.430] [Control] 展开卡片：帮助服务器
+[18:22:28.817] [Control] 按下图标按钮：BtnTitleMin
+[18:24:01.191] [Control] 按下按钮：打开记事本
+[18:24:01.191] [Control] 打开按钮自定义链接：链接-notepad
+[18:24:01.308] [System] 打开网页：notepad
+[18:24:04.061] [Control] 按下按钮：赞助作者
+[18:24:04.061] [Control] 打开按钮自定义链接：链接-https://afdian.net/@LTCat
+[18:24:04.253] [System] 打开网页：https://afdian.net/@LTCat
+[18:26:39.162] [Control] 按下单选按钮：设置
+[18:26:39.179] [Control] 切换主要页面：Setup, -1
+[18:26:40.695] [Control] 按下按钮：刷新主页
+[18:26:40.723] [Control] 切换主要页面：Launch, -1
+[18:26:40.734] [UI] 弹出提示：已刷新主页！
+[18:26:42.899] [Control] 按下图标按钮：BtnTitleMin
+[18:28:29.271] [Control] 按下单选按钮：设置
+[18:28:29.289] [Control] 切换主要页面：Setup, -1
+[18:28:32.413] [Control] 按下按钮：刷新主页
+[18:28:32.441] [Control] 切换主要页面：Launch, -1
+[18:28:32.447] [UI] 弹出提示：已刷新主页！
+[18:28:33.970] [Control] 折叠卡片：帮助服务器
+[18:28:34.465] [Control] 展开卡片：帮助服务器
+[18:28:35.854] [Control] 折叠卡片：帮助服务器
+[18:28:40.585] [Report] FPS 0, 动画 16, 下载中 0
+[18:31:18.743] [Control] 按下按钮：…
+[18:31:18.766] [Control] 切换主要页面：VersionSetup, 0
+[18:31:20.010] [Control] 按下图标按钮：BtnTitleInner
+[18:31:20.027] [Control] 切换主要页面：Launch, -1
+[18:31:20.726] [Control] 按下按钮：版本选择
+[18:31:20.743] [Control] 切换主要页面：VersionSelect, 0
+[18:32:12.502] [Control] 按下图标按钮：BtnTitleInner
+[18:32:12.514] [Control] 切换主要页面：Launch, -1
+[18:32:13.406] [Control] 按下单选按钮：设置
+[18:32:13.424] [Control] 切换主要页面：Setup, -1
+[18:32:16.825] [Control] 按下按钮：刷新主页
+[18:32:16.858] [Control] 切换主要页面：Launch, -1
+[18:32:16.869] [UI] 弹出提示：已刷新主页！
+[18:32:18.541] [Control] 折叠卡片：帮助服务器
+[18:32:21.335] [Control] 按下按钮：1.16 极致优化
+[18:32:21.335] [Control] 启动按钮自定义版本：启动-极限优化
+[18:32:21.347] [Setup] 当前选择的 Minecraft 版本：极限优化
+[18:32:21.348] [Minecraft] 启动按钮：Minecraft 版本：C:\Users\91983\Desktop\客户端\.minecraft\versions\极限优化\
+[18:32:21.349] [Loader] 加载器 Loader Launch 状态改变：Loading
+[18:32:21.373] [Launch] 预检测已通过
+[18:32:21.373] [Loader] 加载器 登录 状态改变：Waiting
+[18:32:21.377] [Download] 开始后台更新资源文件索引
+[18:32:21.378] [Loader] 加载器 后台更新资源文件 状态改变：Loading
+[18:32:21.379] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[18:32:21.383] [Download] 版本 极限优化 对应的资源文件索引为 1.16
+[18:32:21.384] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[18:32:21.385] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[18:32:21.386] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[18:32:21.387] [Loader] 加载器 Java 处理 状态改变：Loading
+[18:32:21.389] [Loader] 加载器 Java 验证 状态改变：Loading
+[18:32:21.391] [Loader] 加载器 Java 验证 状态改变：Finished
+[18:32:21.391] [Loader] 加载器 Java 处理 状态改变：Finished
+[18:32:21.391] [Loader] 加载器 登录 状态改变：Loading
+[18:32:21.392] [Loader] 加载器 补全文件 状态改变：Loading
+[18:32:21.392] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[18:32:21.392] [Launch] 登录线程已启动
+[18:32:21.392] [Loader] 加载器 Loader Login Mojang 状态改变：Loading
+[18:32:21.392] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[18:32:21.392] [Launch] 登录方式：正版（haohaostudio-mine@foxmail.com）
+[18:32:21.392] [Launch] 验证登录开始（Validate, Mojang）
+[18:32:21.392] [Net] 发起网络请求（https://authserver.mojang.com/validate），最大超时 10000
+[18:32:21.392] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[18:32:21.392] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[18:32:21.393] [Download] 版本 极限优化 对应的资源文件索引为 1.16
+[18:32:21.418] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[18:32:21.419] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[18:32:21.419] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[18:32:21.421] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[18:32:21.484] [Download] 1.16.json 1337#：开始，起始点 0，https://download.mcbbs.net/v1/packages/96dd0d11c96498cea7d82df597ee27d6b84df182/1.16.json
+[18:32:21.566] [Minecraft] 获取支持库列表：极限优化
+[18:32:21.581] [Launch] 可能存在分段问题的支持库：com.google.jimfs:jimfs:1.2-fabric
+[18:32:21.581] [Launch] 可能存在分段问题的支持库：com.google.jimfs:jimfs:1.2-fabric
+[18:32:21.592] [Download] 1.16.json 1337#：出错，远程服务器返回错误: (404) 未找到。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.Net.WebException
+[18:32:21.592] [Download] 1.16.json 1326#：下载源被禁用（0）：https://download.mcbbs.net/v1/packages/96dd0d11c96498cea7d82df597ee27d6b84df182/1.16.json
+[18:32:21.592] 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.Net.WebException
+[18:32:21.604] [Download] 1.16.json 1338#：开始，起始点 0，https://launchermeta.mojang.com/v1/packages/96dd0d11c96498cea7d82df597ee27d6b84df182/1.16.json
+[18:32:21.989] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[18:32:21.989] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[18:32:21.990] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[18:32:21.990] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[18:32:21.999] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[18:32:22.000] [Loader] 加载器 下载资源文件 状态改变：Loading
+[18:32:22.000] [Loader] 加载器 下载资源文件 状态改变：Finished
+[18:32:22.000] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[18:32:22.000] [Loader] 加载器 补全文件 状态改变：Finished
+[18:32:22.370] [Control] 按下按钮：取消
+[18:32:22.371] [Loader] 加载器 Minecraft 启动 状态改变：Aborted
+[18:32:22.371] [Launch] 已取消启动
+[18:32:22.372] [Loader] 加载器 登录 状态改变：Aborted
+[18:32:22.372] [Loader] 加载器 获取启动参数 状态改变：Aborted
+[18:32:22.378] [Loader] 加载器 解压文件 状态改变：Aborted
+[18:32:22.378] [Loader] 加载器 预启动处理 状态改变：Aborted
+[18:32:22.379] [Loader] 加载器 启动进程 状态改变：Aborted
+[18:32:22.379] [Loader] 加载器 等待游戏窗口出现 状态改变：Aborted
+[18:32:22.379] [Loader] 加载器 结束处理 状态改变：Aborted
+[18:32:22.415] [Loader] 加载器 Loader Launch 状态改变：Finished
+[18:32:22.442] [UI] 弹出提示：已取消启动！
+[18:32:23.258] [Control] 按下按钮：1.16 高清修复
+[18:32:23.258] [Control] 启动按钮自定义版本：启动-Optifine
+[18:32:23.271] [Setup] 当前选择的 Minecraft 版本：Optifine
+[18:32:23.272] [Minecraft] 启动按钮：Minecraft 版本：C:\Users\91983\Desktop\客户端\.minecraft\versions\Optifine\
+[18:32:23.272] [Loader] 加载器 Loader Launch 状态改变：Loading
+[18:32:23.292] [Launch] 预检测已通过
+[18:32:23.292] [Loader] 加载器 登录 状态改变：Waiting
+[18:32:23.293] [Download] 开始后台更新资源文件索引
+[18:32:23.293] [Loader] 加载器 后台更新资源文件 状态改变：Loading
+[18:32:23.293] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[18:32:23.294] [Download] 版本 Optifine 对应的资源文件索引为 1.16
+[18:32:23.294] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[18:32:23.294] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[18:32:23.295] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[18:32:23.295] [Loader] 加载器 Java 处理 状态改变：Loading
+[18:32:23.296] [Loader] 加载器 Java 验证 状态改变：Loading
+[18:32:23.296] [Loader] 加载器 Java 验证 状态改变：Finished
+[18:32:23.297] [Loader] 加载器 登录 状态改变：Loading
+[18:32:23.297] [Loader] 加载器 Java 处理 状态改变：Finished
+[18:32:23.297] [Launch] 登录线程已启动
+[18:32:23.297] [Loader] 加载器 补全文件 状态改变：Loading
+[18:32:23.297] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[18:32:23.297] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[18:32:23.298] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[18:32:23.298] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[18:32:23.298] [Download] 版本 Optifine 对应的资源文件索引为 1.16
+[18:32:23.315] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[18:32:23.316] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[18:32:23.316] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[18:32:23.316] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[18:32:23.450] [Minecraft] 获取支持库列表：Optifine
+[18:32:23.451] [Launch] 可能存在分段问题的支持库：com.google.jimfs:jimfs:1.2-fabric
+[18:32:23.451] [Launch] 可能存在分段问题的支持库：com.google.jimfs:jimfs:1.2-fabric
+[18:32:23.881] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[18:32:23.882] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[18:32:23.882] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[18:32:23.883] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[18:32:23.888] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[18:32:23.889] [Loader] 加载器 下载资源文件 状态改变：Loading
+[18:32:23.889] [Loader] 加载器 下载资源文件 状态改变：Finished
+[18:32:23.889] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[18:32:23.889] [Loader] 加载器 补全文件 状态改变：Finished
+[18:32:24.261] [Control] 按下按钮：取消
+[18:32:24.261] [Loader] 加载器 Minecraft 启动 状态改变：Aborted
+[18:32:24.262] [Loader] 加载器 登录 状态改变：Aborted
+[18:32:24.262] [Launch] 已取消启动
+[18:32:24.262] [Loader] 加载器 获取启动参数 状态改变：Aborted
+[18:32:24.263] [Loader] 加载器 解压文件 状态改变：Aborted
+[18:32:24.263] [Loader] 加载器 预启动处理 状态改变：Aborted
+[18:32:24.263] [Loader] 加载器 启动进程 状态改变：Aborted
+[18:32:24.264] [Loader] 加载器 等待游戏窗口出现 状态改变：Aborted
+[18:32:24.264] [Loader] 加载器 结束处理 状态改变：Aborted
+[18:32:24.310] [Loader] 加载器 Loader Launch 状态改变：Finished
+[18:32:24.354] [UI] 弹出提示：已取消启动！
+[18:32:26.602] [Download] 1.16.json 1338#：超时（5s）
+[18:32:26.605] [Download] 1.16.json 1369#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/96dd0d11c96498cea7d82df597ee27d6b84df182/1.16.json
+[18:32:26.823] [Download] 1.16.json：文件大小未知
+[18:32:26.916] [Download] 1.16.json：已完成，剩余文件 0
+[18:32:26.916] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[18:32:26.917] [Loader] 加载器 后台更新资源文件 状态改变：Finished
+[18:32:26.917] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[18:32:26.917] [Loader] 加载器 后台更新资源文件 状态改变：Finished
+[18:32:28.583] [Control] 按下按钮：版本选择
+[18:32:28.602] [Control] 切换主要页面：VersionSelect, 0
+[18:32:31.926] [Net] 发起网络请求（https://authserver.mojang.com/validate），最大超时 30000
+[18:32:42.759] [Net] 发起网络请求（https://authserver.mojang.com/validate），最大超时 4000
+[18:32:46.775] [Launch] 验证登录失败：操作超时 → 连接服务器超时（https://authserver.mojang.com/validate）
+[18:32:46.775] [Launch] 刷新登录开始（Refresh, Mojang）
+[18:32:46.775] [Net] 发起网络请求（https://authserver.mojang.com/refresh），最大超时 10000
+[18:32:57.300] [Net] 发起网络请求（https://authserver.mojang.com/refresh），最大超时 30000
+[18:33:08.173] [Net] 发起网络请求（https://authserver.mojang.com/refresh），最大超时 4000
+[18:33:12.189] [Launch] 刷新登录失败：操作超时 → 连接服务器超时（https://authserver.mojang.com/refresh）
+[18:33:12.189] [Launch] 登录开始（Login, Mojang）
+[18:33:12.189] [Net] 发起网络请求（https://authserver.mojang.com/authenticate），最大超时 10000
+[18:33:22.700] [Net] 发起网络请求（https://authserver.mojang.com/authenticate），最大超时 30000
+[18:33:33.573] [Net] 发起网络请求（https://authserver.mojang.com/authenticate），最大超时 4000
+[18:33:37.590] [Launch] 登录失败：$登录失败：连接登录服务器超时。 请检查你的网络状况是否良好，或尝试使用 VPN！
+[18:33:37.590] $登录失败：连接登录服务器超时。
+请检查你的网络状况是否良好，或尝试使用 VPN！
+   在 PCL.ModLaunch.McLoginRequestLogin(LoaderTask`2& Data)
+   在 PCL.ModLaunch.McLoginServerStart(LoaderTask`2 Data)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__1()
+[18:33:37.590] [Loader] 加载器 Loader Login Mojang 状态改变：Failed
+[18:34:14.568] [Control] 按下图标按钮：BtnTitleInner
+[18:34:14.578] [Control] 切换主要页面：Launch, -1
+[18:34:19.419] [Control] 按下单选按钮：设置
+[18:34:19.438] [Control] 切换主要页面：Setup, -1
+[18:34:22.105] [Control] 按下按钮：刷新主页
+[18:34:22.137] [Control] 切换主要页面：Launch, -1
+[18:34:22.139] [UI] 弹出提示：已刷新主页！
+[18:34:23.203] [Control] 折叠卡片：帮助服务器
+[18:35:24.093] [Control] 展开卡片：帮助服务器
+[18:35:25.131] [Control] 折叠卡片：帮助服务器
+[18:35:27.939] [Control] 按下单选按钮：设置
+[18:35:27.959] [Control] 切换主要页面：Setup, -1
+[18:35:33.240] [Control] 按下按钮：刷新主页
+[18:35:33.277] [Control] 切换主要页面：Launch, -1
+[18:35:33.278] [UI] 弹出提示：已刷新主页！
+[18:35:36.301] [Control] 折叠卡片：欢迎使用钉钉村客户端
+[18:35:37.744] [Control] 折叠卡片：帮助服务器
+[18:43:02.871] [Control] 按下单选按钮：设置
+[18:43:02.892] [Control] 切换主要页面：Setup, -1
+[18:43:04.970] [Control] 按下按钮：刷新主页
+[18:43:05.009] “=”是意外的标记。标记应为“;”。 第 77 行，位置 113。
+Caused by: “=”是意外的标记。标记应为“;”。 第 77 行，位置 113。
+   在 System.Windows.Markup.WpfXamlLoader.Load(XamlReader xamlReader, IXamlObjectWriterFactory writerFactory, Boolean skipJournaledProperties, Object rootObject, XamlObjectWriterSettings settings, Uri baseUri)
+   在 System.Windows.Markup.WpfXamlLoader.Load(XamlReader xamlReader, Boolean skipJournaledProperties, Uri baseUri)
+   在 System.Windows.Markup.XamlReader.Load(XamlReader xamlReader, ParserContext parserContext)
+   在 System.Windows.Markup.XamlReader.Load(XmlReader reader, ParserContext parserContext, XamlParseMode parseMode, Boolean useRestrictiveXamlReader, List`1 safeTypes)
+   在 System.Windows.Markup.XamlReader.Load(Stream stream, ParserContext parserContext, Boolean useRestrictiveXamlReader)
+   在 System.Windows.Markup.XamlReader.Load(Stream stream, ParserContext parserContext)
+   在 System.Windows.Markup.XamlReader.Load(Stream stream)
+   在 PCL.ModBase.GetObjectFromXML(String Str)
+   在 PCL.PageLaunchRight.RefreshCustom()
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.Throw(String res, String[] args)
+   在 System.Xml.XmlTextReaderImpl.ThrowUnexpectedToken(String expectedToken1, String expectedToken2)
+   在 System.Xml.XmlTextReaderImpl.ThrowUnexpectedToken(Int32 pos, String expectedToken1, String expectedToken2)
+   在 System.Xml.XmlTextReaderImpl.HandleEntityReference(Boolean isInAttributeValue, EntityExpandType expandType, Int32& charRefEndPos)
+   在 System.Xml.XmlTextReaderImpl.ParseAttributeValueSlow(Int32 curPos, Char quoteChar, NodeData attr)
+   在 System.Xml.XmlTextReaderImpl.ParseAttributes()
+   在 System.Xml.XmlTextReaderImpl.ParseElement()
+   在 System.Xml.XmlTextReaderImpl.ParseElementContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xaml.XmlCompatibilityReader.Read()
+   在 MS.Internal.Xaml.Parser.XamlScanner.DoXmlRead()
+   在 MS.Internal.Xaml.Parser.XamlPullParser.<P_ElementBody>d__8.MoveNext()
+   在 MS.Internal.Xaml.Parser.XamlPullParser.<P_Element>d__5.MoveNext()
+   在 MS.Internal.Xaml.Parser.XamlPullParser.<P_ElementContent>d__12.MoveNext()
+   在 MS.Internal.Xaml.Parser.XamlPullParser.<P_ElementBody>d__8.MoveNext()
+   在 MS.Internal.Xaml.Parser.XamlPullParser.<P_Element>d__5.MoveNext()
+   在 MS.Internal.Xaml.Parser.XamlPullParser.<P_ElementContent>d__12.MoveNext()
+   在 MS.Internal.Xaml.Parser.XamlPullParser.<P_ElementBody>d__8.MoveNext()
+   在 MS.Internal.Xaml.Parser.XamlPullParser.<P_Element>d__5.MoveNext()
+   在 MS.Internal.Xaml.Parser.XamlPullParser.<P_ElementContent>d__12.MoveNext()
+   在 MS.Internal.Xaml.Parser.XamlPullParser.<P_ElementBody>d__8.MoveNext()
+   在 MS.Internal.Xaml.Parser.XamlPullParser.<P_Element>d__5.MoveNext()
+   在 MS.Internal.Xaml.Parser.XamlPullParser.<Parse>d__4.MoveNext()
+   在 MS.Internal.Xaml.NodeStreamSorter.ReadAheadToEndOfAttributes()
+   在 MS.Internal.Xaml.NodeStreamSorter.ReadAheadAndSortCtorProperties()
+   在 MS.Internal.Xaml.NodeStreamSorter.MoveNext()
+   在 System.Xaml.XamlXmlReader.Read()
+   在 System.Windows.Markup.WpfXamlLoader.TransformNodes(XamlReader xamlReader, XamlObjectWriter xamlWriter, Boolean onlyLoadOneNode, Boolean skipJournaledProperties, Boolean shouldPassLineNumberInfo, IXamlLineInfo xamlLineInfo, IXamlLineInfoConsumer xamlLineInfoConsumer, XamlContextStack`1 stack, IStyleConnector styleConnector)
+   在 System.Windows.Markup.WpfXamlLoader.Load(XamlReader xamlReader, IXamlObjectWriterFactory writerFactory, Boolean skipJournaledProperties, Object rootObject, XamlObjectWriterSettings settings, Uri baseUri)
+错误类型：System.Windows.Markup.XamlParseException
+[18:43:05.021] [Control] 普通弹窗：出现错误
+加载 PCL2 主页自定义信息失败：“=”是意外的标记。标记应为“;”。 第 77 行，位置 113。
+Caused by: “=”是意外的标记。标记应为“;”。 第 77 行，位置 113。
+   在 PCL.ModBase.GetObjectFromXML(String Str)
+   在 PCL.PageLaunchRight.RefreshCustom()
+错误类型：System.Windows.Markup.XamlParseException
+[18:43:48.227] [Control] 按下按钮：确定
+[18:43:48.986] [Control] 按下按钮：刷新主页
+[18:43:49.020] [Control] 切换主要页面：Launch, -1
+[18:43:49.021] [UI] 弹出提示：已刷新主页！
+[18:43:54.233] [Control] 按下图标按钮：BtnTitleMin
+[18:44:18.287] [Control] 按下单选按钮：设置
+[18:44:18.304] [Control] 切换主要页面：Setup, -1
+[18:44:20.088] [Control] 按下按钮：刷新主页
+[18:44:20.125] [Control] 切换主要页面：Launch, -1
+[18:44:20.126] [UI] 弹出提示：已刷新主页！
+[18:44:24.036] [Control] 按下图标按钮：BtnTitleMin
+[18:45:13.302] [Control] 按下单选按钮：设置
+[18:45:13.319] [Control] 切换主要页面：Setup, -1
+[18:45:14.617] [Report] FPS 0, 动画 22, 下载中 0
+[18:45:15.318] [Control] 按下按钮：刷新主页
+[18:45:15.352] [Control] 切换主要页面：Launch, -1
+[18:45:15.353] [UI] 弹出提示：已刷新主页！
+[18:45:37.432] [Control] 按下单选按钮：设置
+[18:45:37.451] [Control] 切换主要页面：Setup, -1
+[18:45:42.152] [Control] 按下按钮：刷新主页
+[18:45:42.190] [Control] 切换主要页面：Launch, -1
+[18:45:42.191] [UI] 弹出提示：已刷新主页！
+[18:46:05.020] [Control] 按下单选按钮：设置
+[18:46:05.036] [Control] 切换主要页面：Setup, -1
+[18:46:07.390] [Control] 按下按钮：刷新主页
+[18:46:07.425] [Control] 切换主要页面：Launch, -1
+[18:46:07.436] [UI] 弹出提示：已刷新主页！
+[18:46:20.007] [Control] 按下单选按钮：设置
+[18:46:20.027] [Control] 切换主要页面：Setup, -1
+[18:46:21.567] [Control] 按下按钮：刷新主页
+[18:46:21.598] [Control] 切换主要页面：Launch, -1
+[18:46:21.599] [UI] 弹出提示：已刷新主页！
+[18:46:56.197] [Control] 按下单选按钮：设置
+[18:46:56.214] [Control] 切换主要页面：Setup, -1
+[18:46:58.088] [Control] 按下按钮：刷新主页
+[18:46:58.123] [Control] 切换主要页面：Launch, -1
+[18:46:58.123] [UI] 弹出提示：已刷新主页！
+[18:47:00.220] [Control] 折叠卡片：FAQ
+[18:47:00.983] [Control] 折叠卡片：帮助服务器
+[18:47:03.414] [Control] 折叠卡片：欢迎使用钉钉村客户端
+[18:47:05.820] [Report] FPS 0, 动画 5, 下载中 0
+[18:47:07.153] [Control] 按下图标按钮：BtnTitleClose
+[18:47:07.155] [System] 收到关闭指令
+[18:47:07.460] [System] 程序已退出，返回值：Success
