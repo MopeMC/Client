@@ -1,0 +1,9 @@
+subworlds:主世界,地狱,
+oldNorthWorlds:
+seeds:
+name:堡垒,x:-896,z:1280,y:40,enabled:true,red:0.8912628,green:0.8527835,blue:0.8605819,suffix:,world:,dimensions:the_nether#
+name:海龟,x:-850,z:204,y:63,enabled:true,red:0.68176585,green:0.7726994,blue:0.2841949,suffix:,world:主世界,dimensions:overworld#
+name:home,x:-752,z:298,y:71,enabled:true,red:0.106081545,green:0.49054205,blue:0.26054794,suffix:,world:主世界,dimensions:overworld#
+name:蘑菇岛,x:3256,z:-1280,y:57,enabled:true,red:1.0,green:0.8666667,blue:0.81960785,suffix:,world:地狱,dimensions:the_nether#
+name:珊瑚,x:2721,z:-1891,y:63,enabled:true,red:0.28660458,green:0.9474167,blue:0.41047704,suffix:,world:主世界,dimensions:overworld#
+name:Latest Death,x:3783,z:-2939,y:62,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:skull,world:主世界,dimensions:overworld#

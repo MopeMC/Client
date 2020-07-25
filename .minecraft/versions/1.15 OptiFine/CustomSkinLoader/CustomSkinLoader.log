@@ -1,0 +1,17 @@
+[2020-07-25 19:37:25] [Render thread INFO] CustomSkinLoader 14.12-SNAPSHOT-109
+[2020-07-25 19:37:25] [Render thread INFO] DataDir: C:\Users\91983\Desktop\客户端\.minecraft\versions\1.15 OptiFine\CustomSkinLoader
+[2020-07-25 19:37:25] [Render thread INFO] Minecraft: 1.15(1.15 OptiFine)
+[2020-07-25 19:37:25] [Render thread INFO] Config File: C:\Users\91983\Desktop\客户端\.minecraft\versions\1.15 OptiFine\CustomSkinLoader\CustomSkinLoader.json
+[2020-07-25 19:37:25] [Render thread INFO] Config file not found, use default instead.
+[2020-07-25 19:37:25] [Render thread INFO] Successfully create config.
+[2020-07-25 19:37:26] [Render thread INFO] version : 14.12
+[2020-07-25 19:37:26] [Render thread INFO] enableDynamicSkull : true
+[2020-07-25 19:37:26] [Render thread INFO] enableTransparentSkin : true
+[2020-07-25 19:37:26] [Render thread INFO] ignoreHttpsCertificate : false
+[2020-07-25 19:37:26] [Render thread INFO] forceLoadAllTextures : false
+[2020-07-25 19:37:26] [Render thread INFO] enableCape : true
+[2020-07-25 19:37:26] [Render thread INFO] cacheExpiry : 30
+[2020-07-25 19:37:26] [Render thread INFO] enableUpdateSkull : false
+[2020-07-25 19:37:26] [Render thread INFO] enableLocalProfileCache : false
+[2020-07-25 19:37:26] [Render thread INFO] enableCacheAutoClean : false
+[2020-07-25 19:37:26] [Render thread INFO] loadList : 7

@@ -1,0 +1,11 @@
+subworlds:主世界,劳教,
+oldNorthWorlds:
+seeds:
+name:沼泽,x:1064,z:2664,y:57,enabled:true,red:0.9426303,green:0.10501975,blue:0.15066159,suffix:,world:,dimensions:the_nether#
+name:地狱大门,x:-864,z:320,y:57,enabled:true,red:0.32424766,green:0.8025412,blue:0.1865086,suffix:,world:,dimensions:the_nether#
+name:地牢,x:-1624,z:-888,y:57,enabled:true,red:0.79167485,green:0.3734023,blue:0.12968385,suffix:,world:,dimensions:the_nether#
+name:粘土山,x:-1560,z:2368,y:57,enabled:true,red:0.6443276,green:0.37034786,blue:0.55063784,suffix:,world:,dimensions:the_nether#
+name:1,x:-46,z:66,y:61,enabled:true,red:0.398494,green:0.9826525,blue:0.95462507,suffix:,world:,dimensions:the_end#
+name:冰刺,x:-549,z:4,y:63,enabled:true,red:0.3238352,green:0.032891512,blue:0.84701353,suffix:,world:主世界,dimensions:overworld#
+name:沙漠,x:-1598,z:296,y:73,enabled:true,red:0.4506871,green:0.6308563,blue:0.5966674,suffix:,world:主世界,dimensions:overworld#
+name:home,x:-1198,z:6,y:95,enabled:true,red:0.107058644,green:0.24491602,blue:0.44339752,suffix:,world:主世界,dimensions:overworld#

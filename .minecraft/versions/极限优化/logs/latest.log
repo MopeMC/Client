@@ -1,0 +1,150 @@
+[19:46:06] [main/INFO]: Loading for game Minecraft 1.16.1
+[19:46:08] [main/WARN]: Warnings were found! 
+ - Conflicting versions found for fabric-keybindings-v0: used 0.2.0+3fa9f7c57c, also found 0.2.0+3fa9f7c5b0
+ - Conflicting versions found for fabric-api-base: used 0.1.3+12a8474cb0, also found 0.1.3+12a8474c7c, 0.1.3+12a8474cb2
+ - Conflicting versions found for fabric-tool-attribute-api-v1: used 1.1.4+5794386e7c, also found 1.1.4+5794386eb0
+ - Conflicting versions found for fabric-events-interaction-v0: used 0.3.3+7066030f7c, also found 0.3.3+7066030fb0
+ - Conflicting versions found for fabric-key-binding-api-v1: used 1.0.0+e16a9774b0, also found 1.0.0+e16a97747c
+ - Conflicting versions found for fabric-resource-loader-v0: used 0.2.5+059ea8667c, also found 0.2.5+059ea866b0, 0.2.5+059ea86602
+ - Conflicting versions found for fabric-tag-extensions-v0: used 0.2.5+5a6e8f4c7c, also found 0.2.5+5a6e8f4cb0
+ - Conflicting versions found for fabric-events-lifecycle-v0: used 0.1.3+0d474ec47c, also found 0.1.3+0d474ec4b0, 0.1.3+0d474ec4b2
+[19:46:08] [main/WARN]: Mod `tweed` (3.0.0-beta.9) uses 'requires' key in fabric.mod.json, which is not supported - use 'depends'
+[19:46:08] [main/INFO]: [FabricLoader] Loading 57 mods: fabric-renderer-api-v1@0.2.13+eae12eb87c, fabric-keybindings-v0@0.2.0+3fa9f7c57c, gbfabrictools@1.2.2+1.16, fabricloader@0.9.0+build.204, customskinloader@14.12-SNAPSHOT-109, fabric-containers-v0@0.1.8+045df74f7c, fabric-object-builder-api-v1@1.5.5+e00ecb5f7c, fabric-dimensions-v1@1.0.0+a71b30537c, fabric-api-base@0.1.3+12a8474cb0, fabric-rendering-data-attachment-v1@0.1.3+b7f9825d7c, fabric-textures-v0@1.0.4+eae12eb87c, fabric-rendering-fluids-v1@0.1.7+12a8474c7c, easiervillagertrading@1.16-fabric0.13.1-1.5, waila@1.9.22, fabric-blockrenderlayer-v1@1.1.4+c6a8ea897c, sodium@0.1.0-SNAPSHOT, fabric-renderer-registries-v1@2.0.1+5a0f9a607c, minihud@0.19.0-dev.20200625.014835, fabric-loot-tables-v1@0.1.10+059ea8667c, fabric@0.13.1+build.370-1.16, fabric-particles-v1@0.2.1+0a6f2a707c, fabric-networking-v0@0.1.10+e00ecb5f7c, fabric-screen-handler-api-v1@1.0.1+f362c86e7c, minecraft@1.16.1, fabric-networking-blockentity-v0@0.2.5+b50ffc7b7c, modmenu@1.12.2+build.16, cloth-basic-math@0.5.1, fabric-command-api-v1@1.0.8+5ce533987c, easiercrafting@1.16-fabric0.13.1-1.6.1.beta4, amecsapi@1.0.2+1.16-rc1, fabric-tool-attribute-api-v1@1.1.4+5794386e7c, fabric-renderer-indigo@0.3.1+059ea8667c, allmusic@2.1.0, fabric-biomes-v1@0.2.7+059ea8667c, fabric-events-interaction-v0@0.3.3+7066030f7c, fabric-crash-report-info-v1@0.1.2+b7f9825d7c, fabric-rendering-v0@1.1.0+534104907c, mousewheelie@1.4.16+mc1.16-rc1, fabric-key-binding-api-v1@1.0.0+e16a9774b0, fabric-rendering-v1@1.1.2+346247d77c, cloth-config2@4.4.1-unstable, fabric-resource-loader-v0@0.2.5+059ea8667c, malilib@0.10.0-dev.21+arne.1, fabric-content-registries-v0@0.1.9+059ea8667c, fabric-tag-extensions-v0@0.2.5+5a6e8f4c7c, appleskin@1.0.11, fabric-registry-sync-v0@0.3.8+7dba2d6c7c, fabric-commands-v0@0.2.0+52d308367c, durabilityviewer@1.16-fabric0.13.1-1.7.1, itemscroller@0.15.0-dev.20200624.214738, fabric-mining-levels-v0@0.1.2+b764ce997c, voxelmap@1.10.1, fabric-events-lifecycle-v0@0.1.3+0d474ec47c, fabric-models-v0@0.1.0+dfdb52d67c, fabric-item-groups-v0@0.2.0+438f96367c, fabric-object-builders-v0@0.6.0+da175ad67c, tweed@3.0.0-beta.9
+[19:46:08] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/C:/Users/91983/Desktop/%e5%ae%a2%e6%88%b7%e7%ab%af/.minecraft/libraries/net/fabricmc/sponge-mixin/0.8+build.18/sponge-mixin-0.8+build.18.jar Service=Knot/Fabric Env=CLIENT
+[19:46:09] [main/INFO]: Loaded configuration file for Sodium: 23 options available, 0 override(s) found
+[19:46:09] [main/WARN]: @Mixin target net/minecraft/class_5120$class_5121 is public in fabric-tag-extensions-v0.mixins.json:MixinTagImpl and should be specified in value
+[19:46:09] [main/WARN]: @Mixin target net.minecraft.class_5394 is public in fabric-tag-extensions-v0.mixins.json:MixinTagImpl and should be specified in value
+[19:46:10] [main/WARN]: Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org/jetbrains/annotations/ApiStatus$Internal)
+[19:46:19] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[19:46:19] [main/INFO]: Setting user: haohaovision
+[19:46:22] [main/INFO]: Discovered plugin waila:core provided by waila at mcp.mobius.waila.addons.core.PluginCore
+[19:46:22] [main/INFO]: Discovered plugin waila:vanilla provided by waila at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[19:46:22] [main/INFO]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[19:46:22] [main/INFO]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[19:46:23] [main/INFO]: letter_A.lr loaded
+[19:46:23] [main/INFO]: letter_B.lr loaded
+[19:46:23] [main/INFO]: letter_C.lr loaded
+[19:46:23] [main/INFO]: letter_D.lr loaded
+[19:46:23] [main/INFO]: letter_E.lr loaded
+[19:46:23] [main/INFO]: letter_F.lr loaded
+[19:46:23] [main/INFO]: letter_G.lr loaded
+[19:46:23] [main/INFO]: letter_H.lr loaded
+[19:46:23] [main/INFO]: letter_I.lr loaded
+[19:46:23] [main/INFO]: letter_J.lr loaded
+[19:46:23] [main/INFO]: letter_K.lr loaded
+[19:46:23] [main/INFO]: letter_L.lr loaded
+[19:46:23] [main/INFO]: letter_M.lr loaded
+[19:46:23] [main/INFO]: letter_N.lr loaded
+[19:46:23] [main/INFO]: letter_O.lr loaded
+[19:46:23] [main/INFO]: letter_P.lr loaded
+[19:46:23] [main/INFO]: letter_Q.lr loaded
+[19:46:23] [main/INFO]: letter_R.lr loaded
+[19:46:23] [main/INFO]: letter_S.lr loaded
+[19:46:23] [main/INFO]: letter_T.lr loaded
+[19:46:23] [main/INFO]: letter_U.lr loaded
+[19:46:23] [main/INFO]: letter_V.lr loaded
+[19:46:23] [main/INFO]: letter_W.lr loaded
+[19:46:23] [main/INFO]: letter_X.lr loaded
+[19:46:23] [main/INFO]: letter_Y.lr loaded
+[19:46:23] [main/INFO]: letter_Z.lr loaded
+[19:46:23] [main/INFO]: mark_dot.lr loaded
+[19:46:23] [main/INFO]: mark_exclam.lr loaded
+[19:46:23] [main/INFO]: mark_question.lr loaded
+[19:46:23] [main/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[19:46:23] [main/ERROR]: [ClothConfig] Failed to add test config override for ModMenu!
+java.lang.NoSuchMethodException: io.github.prospector.modmenu.api.ModMenuApi.addConfigOverride(java.lang.String, java.lang.Runnable)
+	at java.lang.Class.getMethod(Unknown Source) ~[?:?]
+	at me.shedaniel.clothconfig2.ClothConfigInitializer.onInitializeClient(ClothConfigInitializer.java:81) ~[aa0d5e91-6a90-4f13-9a8b-77b46f0b6bb0.jar:?]
+	at net.fabricmc.loader.entrypoint.minecraft.hooks.EntrypointUtils.invoke0(EntrypointUtils.java:50) [fabric-loader-0.9.0+build.204.jar:?]
+	at net.fabricmc.loader.entrypoint.minecraft.hooks.EntrypointUtils.invoke(EntrypointUtils.java:36) [fabric-loader-0.9.0+build.204.jar:?]
+	at net.fabricmc.loader.entrypoint.minecraft.hooks.EntrypointClient.start(EntrypointClient.java:33) [fabric-loader-0.9.0+build.204.jar:?]
+	at net.minecraft.class_310.<init>(class_310.java:425) [intermediary-极限优化.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:177) [intermediary-极限优化.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at net.fabricmc.loader.game.MinecraftGameProvider.launch(MinecraftGameProvider.java:192) [fabric-loader-0.9.0+build.204.jar:?]
+	at net.fabricmc.loader.launch.knot.Knot.init(Knot.java:140) [fabric-loader-0.9.0+build.204.jar:?]
+	at net.fabricmc.loader.launch.knot.KnotClient.main(KnotClient.java:26) [fabric-loader-0.9.0+build.204.jar:?]
+[19:46:23] [main/INFO]: Reloaded configs for mousewheelie (universal/highest)
+[19:46:23] [main/INFO]: Reloaded configs for tweed (universal/highest)
+[19:46:24] [main/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[19:46:32] [main/INFO]: [STDOUT]: Log Path: C:\Users\91983\Desktop\客户端\.minecraft\versions\极限优化\CustomSkinLoader\CustomSkinLoader.log
+[19:46:32] [main/INFO]: [STDOUT]: [Render thread INFO] CustomSkinLoader 14.12-SNAPSHOT-109
+[19:46:32] [main/INFO]: [STDOUT]: [Render thread INFO] DataDir: C:\Users\91983\Desktop\客户端\.minecraft\versions\极限优化\CustomSkinLoader
+[19:46:32] [main/INFO]: [STDOUT]: [Render thread INFO] Minecraft: null(极限优化)
+[19:46:32] [main/INFO]: [STDOUT]: [Render thread INFO] Config File: C:\Users\91983\Desktop\客户端\.minecraft\versions\极限优化\CustomSkinLoader\CustomSkinLoader.json
+[19:46:32] [main/INFO]: [STDOUT]: [Render thread INFO] Try to load config.
+[19:46:32] [main/INFO]: [STDOUT]: [Render thread INFO] Successfully load config.
+[19:46:32] [main/INFO]: [STDOUT]: [Render thread INFO] version : 14.12
+[19:46:32] [main/INFO]: [STDOUT]: [Render thread INFO] enableDynamicSkull : true
+[19:46:32] [main/INFO]: [STDOUT]: [Render thread INFO] enableTransparentSkin : true
+[19:46:32] [main/INFO]: [STDOUT]: [Render thread INFO] ignoreHttpsCertificate : false
+[19:46:32] [main/INFO]: [STDOUT]: [Render thread INFO] forceLoadAllTextures : false
+[19:46:32] [main/INFO]: [STDOUT]: [Render thread INFO] enableCape : true
+[19:46:32] [main/INFO]: [STDOUT]: [Render thread INFO] cacheExpiry : 30
+[19:46:32] [main/INFO]: [STDOUT]: [Render thread INFO] enableUpdateSkull : false
+[19:46:32] [main/INFO]: [STDOUT]: [Render thread INFO] enableLocalProfileCache : false
+[19:46:32] [main/INFO]: [STDOUT]: [Render thread INFO] enableCacheAutoClean : false
+[19:46:32] [main/INFO]: [STDOUT]: [Render thread INFO] loadList : 7
+[19:46:34] [main/WARN]: Mixin apply failed mixins.customskinloader.json:MixinGuiPlayerTabOverlay -> net.minecraft.class_355: org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException Critical injection failure: @Redirect annotation on redirect_renderPlayerlist could not find any targets matching 'Lnet/minecraft/class_355;method_1919(ILnet/minecraft/class_269;Lnet/minecraft/class_266;)V' in net.minecraft.class_355. Using refmap mixins.customskinloader.refmap.json [ -> redirect$zgl000$redirect_renderPlayerlist(Lnet/minecraft/class_310;)Z -> Parse]
+org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Critical injection failure: @Redirect annotation on redirect_renderPlayerlist could not find any targets matching 'Lnet/minecraft/class_355;method_1919(ILnet/minecraft/class_269;Lnet/minecraft/class_266;)V' in net.minecraft.class_355. Using refmap mixins.customskinloader.refmap.json [ -> redirect$zgl000$redirect_renderPlayerlist(Lnet/minecraft/class_310;)Z -> Parse]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.findMethods(InjectionInfo.java:543) ~[sponge-mixin-0.8+build.18.jar:0.8+build.18+unknown-b18.git-unknown]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.readAnnotation(InjectionInfo.java:280) ~[sponge-mixin-0.8+build.18.jar:0.8+build.18+unknown-b18.git-unknown]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.<init>(InjectionInfo.java:267) ~[sponge-mixin-0.8+build.18.jar:0.8+build.18+unknown-b18.git-unknown]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.<init>(InjectionInfo.java:259) ~[sponge-mixin-0.8+build.18.jar:0.8+build.18+unknown-b18.git-unknown]
+	at org.spongepowered.asm.mixin.injection.struct.RedirectInjectionInfo.<init>(RedirectInjectionInfo.java:44) ~[sponge-mixin-0.8+build.18.jar:0.8+build.18+unknown-b18.git-unknown]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:?]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo$InjectorEntry.create(InjectionInfo.java:139) ~[sponge-mixin-0.8+build.18.jar:0.8+build.18+unknown-b18.git-unknown]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.parse(InjectionInfo.java:595) ~[sponge-mixin-0.8+build.18.jar:0.8+build.18+unknown-b18.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.prepareInjections(MixinTargetContext.java:1236) ~[sponge-mixin-0.8+build.18.jar:0.8+build.18+unknown-b18.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.prepareInjections(MixinApplicatorStandard.java:1033) ~[sponge-mixin-0.8+build.18.jar:0.8+build.18+unknown-b18.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:388) ~[sponge-mixin-0.8+build.18.jar:0.8+build.18+unknown-b18.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:320) ~[sponge-mixin-0.8+build.18.jar:0.8+build.18+unknown-b18.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:345) ~[sponge-mixin-0.8+build.18.jar:0.8+build.18+unknown-b18.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:570) [sponge-mixin-0.8+build.18.jar:0.8+build.18+unknown-b18.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:351) [sponge-mixin-0.8+build.18.jar:0.8+build.18+unknown-b18.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:191) [sponge-mixin-0.8+build.18.jar:0.8+build.18+unknown-b18.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:178) [sponge-mixin-0.8+build.18.jar:0.8+build.18+unknown-b18.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.FabricMixinTransformerProxy.transformClassBytes(FabricMixinTransformerProxy.java:23) [fabric-loader-0.9.0+build.204.jar:0.8+build.18+unknown-b18.git-unknown]
+	at net.fabricmc.loader.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:157) [fabric-loader-0.9.0+build.204.jar:?]
+	at net.fabricmc.loader.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:143) [fabric-loader-0.9.0+build.204.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [?:?]
+	at net.minecraft.class_329.<init>(class_329.java:139) [intermediary-极限优化.jar:?]
+	at net.minecraft.class_310.<init>(class_310.java:545) [intermediary-极限优化.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:177) [intermediary-极限优化.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at net.fabricmc.loader.game.MinecraftGameProvider.launch(MinecraftGameProvider.java:192) [fabric-loader-0.9.0+build.204.jar:?]
+	at net.fabricmc.loader.launch.knot.Knot.init(Knot.java:140) [fabric-loader-0.9.0+build.204.jar:?]
+	at net.fabricmc.loader.launch.knot.KnotClient.main(KnotClient.java:26) [fabric-loader-0.9.0+build.204.jar:?]
+[19:46:34] [main/INFO]: Narrator library for x64 successfully loaded
+[19:46:34] [main/INFO]: Reloading ResourceManager: Default, Fabric Renderer API (v1), Fabric Key Bindings (v0), GBfabrictools, Fabric Loader, Fabric Containers (v0), Fabric Object Builder API (v1), Fabric API Base, Fabric Rendering Data Attachment (v1), Fabric Textures (v0), Fabric Rendering Fluids (v1), EasierVillagerTrading, Hwyla, Fabric BlockRenderLayer Registration (v1), Sodium, Fabric Renderer Registries (v1), MiniHUD, Fabric Loot Tables (v1), Fabric API, Fabric Networking (v0), Fabric Screen Handler API (v1), Fabric Networking Block Entity (v0), Mod Menu, EasierCrafting, Amecs API, Fabric Tool Attribute API (v1), Fabric Renderer - Indigo, AllMusic, Fabric Biomes (v1), Fabric Events Interaction (v0), Fabric Crash Report Info (v1), Fabric Rendering (v0), Mouse Wheelie, Fabric Key Binding API (v1), Fabric Rendering (v1), Cloth Config v2, Fabric Resource Loader (v0), MaLiLib, Fabric Content Registries (v0), Fabric Tag Extensions (v0), AppleSkin, Fabric Registry Sync (v0), Giselbaers Durability Viewer, Item Scroller, Fabric Mining Levels (v0), VoxelMap, Fabric Events Lifecycle (v0), Fabric Models (v0), Fabric Item Groups (v0), Fabric Object Builders (v0), Tweed API
+[19:46:48] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[19:46:50] [main/INFO]: OpenAL initialized.
+[19:46:50] [main/INFO]: Sound engine started
+[19:46:50] [main/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[19:46:51] [main/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[19:46:51] [main/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[19:46:51] [main/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[19:46:51] [main/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[19:46:51] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[19:46:51] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[19:46:51] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[19:46:51] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[19:46:51] [main/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[19:46:51] [main/INFO]: Reloaded configs for mousewheelie (client/smallest)
+[19:46:51] [main/INFO]: Reloaded configs for tweed (client/smallest)
+[19:46:52] [main/INFO]: [STDOUT]: CATEGORY ORDER IS 10
+[19:46:55] [main/INFO]: Created: 256x256 waypoints-atlas
+[19:46:58] [main/INFO]: Created: 256x128 chooser-atlas
+[19:47:07] [main/INFO]: Created: 512x512 mobs-atlas
+[19:47:08] [main/INFO]: Created: 64x64 pings-atlas
+[19:47:28] [main/ERROR]: Can't ping sq.na4.xyz:20831: 连接中止
+[19:51:24] [main/INFO]: Stopping!

@@ -1,0 +1,6 @@
+subworlds:主世界,地狱,测试世界,
+oldNorthWorlds:
+seeds:
+name:雪原,x:-6817,z:-5841,y:64,enabled:true,red:0.0,green:1.0,blue:0.0,suffix:,world:主世界,dimensions:overworld#
+name:末地传送门,x:-1184,z:-1672,y:54,enabled:true,red:0.7518474,green:0.32951236,blue:0.98468083,suffix:,world:地狱,dimensions:the_nether#
+name:Latest Death,x:-1328,z:-1208,y:86,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:skull,world:地狱,dimensions:the_nether#

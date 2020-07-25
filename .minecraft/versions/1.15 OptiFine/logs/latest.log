@@ -1,0 +1,270 @@
+[19:36:42] [main/INFO]: Loading for game Minecraft 1.15.2
+[19:36:42] [main/INFO]: Fabric is preparing JARs on first launch, this may take a few seconds...
+[19:36:50] [main/WARN]: Warnings were found! 
+ - Conflicting versions found for fabric-keybindings-v0: used 0.1.1+933c24c242, also found 0.1.1+dfdb52d60c
+ - Conflicting versions found for fabric-api-base: used 0.1.2+28f8190f42, also found 0.1.2+b7f9825d0c
+ - Conflicting versions found for fabric-networking-v0: used 0.1.7+003643510c, also found 0.1.7+12515ed995
+ - Mod amecs conflicts with mod {optifabric @ [*]}, but the conflicting version is present: 1.0.0-beta8!
+ - Conflicting versions found for fabric-resource-loader-v0: used 0.1.10+06c939b395, also found 0.1.10+06c939b30c
+ - Conflicting versions found for fabric-tag-extensions-v0: used 0.1.3+d423005742, also found 0.1.3+abd915800c
+ - Conflicting versions found for fabric-events-lifecycle-v0: used 0.1.2+003643510c, also found 0.1.2+b7f9825de8
+[19:36:50] [main/WARN]: Mod `lightoverlay` (4.1) uses 'requires' key in fabric.mod.json, which is not supported - use 'depends'
+[19:36:50] [main/WARN]: Mod `smallerfpsincrements` (1.0.1) uses 'requires' key in fabric.mod.json, which is not supported - use 'depends'
+[19:36:50] [main/WARN]: Mod `tweed` (2.2.8) uses 'requires' key in fabric.mod.json, which is not supported - use 'depends'
+[19:36:50] [main/INFO]: [FabricLoader] Loading 70 mods: fabric-renderer-api-v1@0.2.10+f08b61330c, fabric-keybindings-v0@0.1.1+933c24c242, gbfabrictools@1.2.1.1.15, fabricloader@0.9.0+build.204, org_zeroturnaround_zt-zip@1.14, customskinloader@14.12-SNAPSHOT-109, pathsuggestion@0.3.0, fabric-containers-v0@0.1.3+b7f9825d0c, lithium@0.4.6, fabric-dimensions-v1@0.3.0+2ad156310c, fabric-object-builder-api-v1@1.2.1+e7a4edb30c, fabric-api-base@0.1.2+28f8190f42, mm@2.0, fabric-rendering-data-attachment-v1@0.1.3+b7f9825d0c, fabric-textures-v0@1.0.4+821cdba70c, fabric-rendering-fluids-v1@0.1.6+12515ed90c, com_moandjiezana_toml_toml4j@0.7.2, easiervillagertrading@1.14.4-fabric0.4.1-1.4, waila@1.9.21, fabric-blockrenderlayer-v1@1.1.4+c6a8ea890c, fabric-renderer-registries-v1@2.0.1+5a0f9a600c, minihud@0.19.0-dev.20200303.193734, fabric-loot-tables-v1@0.1.5+e08a73050c, fabric@0.11.1+build.312-1.15, org_slf4j_slf4j-api@1.7.30, carpet@1.3.20, fabric-particles-v1@0.1.2+ad2f81bd0c, fabric-networking-v0@0.1.7+003643510c, cloth@1.2.0, minecraft@1.15.2, fabric-networking-blockentity-v0@0.2.3+e08a73050c, modmenu@1.10.1+build.30, fabric-command-api-v1@1.0.2+2aebb7ff0c, cloth-basic-math@0.4.1, easiercrafting@1.15-fabric0.4.23-1.6.1.beta2, fabric-tool-attribute-api-v1@1.1.0+3e5587510c, fabric-renderer-indigo@0.2.23+9290e2ed0c, autofish@0.8.5, allmusic@2.1.0, fabric-biomes-v1@0.1.5+3b05f68e0c, roughlyenoughitems@3.6.4, org_slf4j_slf4j-simple@1.7.30, fabric-events-interaction-v0@0.3.0+fac69e320c, fabric-crash-report-info-v1@0.1.2+b7f9825d0c, fabric-rendering-v0@1.1.0+534104900c, mousewheelie@1.4.0+1.15.2-pre1, fabric-rendering-v1@1.0.0+2a034f0a0c, cloth-config2@2.11.1, amecs@1.2.9+1.15-pre5, fabric-resource-loader-v0@0.1.10+06c939b395, autoconfig1u@1.2.4, malilib@0.10.0-dev.21+arne.2, fabric-content-registries-v0@0.1.3+b7f9825d0c, fabric-tag-extensions-v0@0.1.3+d423005742, optifabric@1.0.0-beta8, appleskin@1.0.8, fabric-commands-v0@0.2.0+2e0c4ff50c, fabric-registry-sync-v0@0.2.6+f3d8141b0c, lightoverlay@4.1, durabilityviewer@1.15.2-fabric0.4.23-1.7, fabric-mining-levels-v0@0.1.2+ec951ea40c, fabric-climbable-api-v1@1.0.0+6ffe71e20c, voxelmap@1.9.16, fabric-events-lifecycle-v0@0.1.2+003643510c, smallerfpsincrements@1.0.1, fabric-models-v0@0.1.0+dfdb52d60c, fabric-item-groups-v0@0.1.6+045efb460c, fabric-object-builders-v0@0.5.1+3e5587510c, tweed@2.2.8, org_jetbrains_annotations@18.0.0
+[19:36:50] [main/WARN]: Mod `gbfabrictools` (1.2.1.1.15) uses more dot-separated version components than SemVer allows; support for this is currently not guaranteed.
+[19:36:50] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/C:/Users/91983/Desktop/%e5%ae%a2%e6%88%b7%e7%ab%af/.minecraft/libraries/net/fabricmc/sponge-mixin/0.8+build.18/sponge-mixin-0.8+build.18.jar Service=Knot/Fabric Env=CLIENT
+[19:36:51] [main/INFO]: Lithium's configuration file was loaded successfully
+[19:36:51] [main/INFO]: Not applying mixin 'me.jellysquid.mods.lithium.mixin.chunk.no_chunk_locking.MixinPalettedContainer' as no configuration enables it
+[19:36:51] [main/INFO]: Not applying mixin 'me.jellysquid.mods.lithium.mixin.redstone.MixinRedstoneWireBlock' as no configuration enables it
+[19:36:51] [main/INFO]: Not applying mixin 'me.jellysquid.mods.lithium.mixin.redstone.MixinWorld' as no configuration enables it
+[19:37:08] [main/INFO]: Transforming class net/minecraft/class_2382 using patch set 'Modify mutability flags in Vec3i'
+[19:37:09] [main/INFO]: Transforming class net/minecraft/class_2338$class_2339 using patch set 'Use mutable fields in Vec3i'
+[19:37:09] [main/INFO]: [OptiFine] (Reflector) Field not found: World.tileEntitiesToBeRemoved
+[19:37:09] [main/WARN]: Injection warning: LVT in net/minecraft/class_315::method_1640()V has incompatible changes at opcode 971 in callback net/minecraft/class_315::onKeyBindingWritten.
+Expected: [Ljava/io/PrintWriter;, [Lnet/minecraft/class_304;, I, I, Lnet/minecraft/class_304;]
+   Found: [Ljava/io/PrintWriter;, Lnull;, [Lnet/minecraft/class_304;, I, I]
+[19:37:10] [main/INFO]: Setting user: haohaovision
+[19:37:19] [main/INFO]: Definitely not up to no good
+[19:37:20] [main/INFO]: Discovered plugin waila:core provided by waila at mcp.mobius.waila.addons.core.PluginCore
+[19:37:20] [main/INFO]: Discovered plugin waila:vanilla provided by waila at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[19:37:20] [main/INFO]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[19:37:20] [main/INFO]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[19:37:20] [main/INFO]: Loaded 1 recipes
+[19:37:20] [main/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[19:37:21] [main/INFO]: [REI] Config is loaded.
+[19:37:21] [main/INFO]: Reloaded configs for mousewheelie
+[19:37:21] [main/WARN]: Skipping bad option: ?
+[19:37:21] [main/WARN]: Skipping bad option: 
+[19:37:21] [main/WARN]: Skipping bad option: 
+[19:37:21] [main/WARN]: Skipping bad option: 
+[19:37:21] [main/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[19:37:25] [main/INFO]: [OptiFine] 
+[19:37:25] [main/INFO]: [OptiFine] OptiFine_1.15.2_HD_U_G1_pre21
+[19:37:25] [main/INFO]: [OptiFine] Build: 20200605-224319
+[19:37:25] [main/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[19:37:25] [main/INFO]: [OptiFine] Java: 1.8.0_144, Oracle Corporation
+[19:37:25] [main/INFO]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[19:37:25] [main/INFO]: [OptiFine] LWJGL: 3.3.0 Win32 WGL EGL OSMesa VisualC DLL
+[19:37:25] [main/INFO]: [OptiFine] OpenGL: GeForce GTX 760/PCIe/SSE2, version 4.6.0 NVIDIA 445.87, NVIDIA Corporation
+[19:37:25] [main/INFO]: [OptiFine] OpenGL Version: 4.6.0
+[19:37:25] [main/INFO]: [OptiFine] Maximum texture size: 16384x16384
+[19:37:25] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[19:37:25] [main/INFO]: [Shaders] OpenGL Version: 4.6.0 NVIDIA 445.87
+[19:37:25] [main/INFO]: [Shaders] Vendor:  NVIDIA Corporation
+[19:37:25] [main/INFO]: [Shaders] Renderer: GeForce GTX 760/PCIe/SSE2
+[19:37:25] [main/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[19:37:25] [main/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[19:37:25] [main/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[19:37:25] [main/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[19:37:25] [main/INFO]: [Shaders] Load shaders configuration.
+[19:37:25] [main/INFO]: [Shaders] Save shaders configuration.
+[19:37:25] [main/INFO]: [Shaders] No shaderpack loaded.
+[19:37:25] [main/INFO]: [STDOUT]: Log Path: C:\Users\91983\Desktop\客户端\.minecraft\versions\1.15 OptiFine\CustomSkinLoader\CustomSkinLoader.log
+[19:37:25] [main/INFO]: [STDOUT]: [Render thread INFO] CustomSkinLoader 14.12-SNAPSHOT-109
+[19:37:25] [main/INFO]: [STDOUT]: [Render thread INFO] DataDir: C:\Users\91983\Desktop\客户端\.minecraft\versions\1.15 OptiFine\CustomSkinLoader
+[19:37:25] [main/INFO]: [STDOUT]: [Render thread INFO] Minecraft: 1.15(1.15 OptiFine)
+[19:37:25] [main/INFO]: [STDOUT]: [Render thread INFO] Config File: C:\Users\91983\Desktop\客户端\.minecraft\versions\1.15 OptiFine\CustomSkinLoader\CustomSkinLoader.json
+[19:37:25] [main/INFO]: [STDOUT]: [Render thread INFO] Config file not found, use default instead.
+[19:37:25] [main/INFO]: [STDOUT]: [Render thread INFO] Successfully create config.
+[19:37:26] [main/INFO]: [STDOUT]: [Render thread INFO] version : 14.12
+[19:37:26] [main/INFO]: [STDOUT]: [Render thread INFO] enableDynamicSkull : true
+[19:37:26] [main/INFO]: [STDOUT]: [Render thread INFO] enableTransparentSkin : true
+[19:37:26] [main/INFO]: [STDOUT]: [Render thread INFO] ignoreHttpsCertificate : false
+[19:37:26] [main/INFO]: [STDOUT]: [Render thread INFO] forceLoadAllTextures : false
+[19:37:26] [main/INFO]: [STDOUT]: [Render thread INFO] enableCape : true
+[19:37:26] [main/INFO]: [STDOUT]: [Render thread INFO] cacheExpiry : 30
+[19:37:26] [main/INFO]: [STDOUT]: [Render thread INFO] enableUpdateSkull : false
+[19:37:26] [main/INFO]: [STDOUT]: [Render thread INFO] enableLocalProfileCache : false
+[19:37:26] [main/INFO]: [STDOUT]: [Render thread INFO] enableCacheAutoClean : false
+[19:37:26] [main/INFO]: [STDOUT]: [Render thread INFO] loadList : 7
+[19:37:26] [main/WARN]: [OptiFine] PlayerItemsLayer not registered
+[19:37:26] [VersionCheck/INFO]: [OptiFine] java.io.FileNotFoundException: http://optifine.net/version/1.15.2/HD_U.txt
+[19:37:27] [main/INFO]: Narrator library for x64 successfully loaded
+[19:37:27] [main/INFO]: Reloading ResourceManager: Default, Fabric Renderer API (v1), Fabric Key Bindings (v0), Fabric Loader, Path Suggestion, Fabric Containers (v0), Lithium, Fabric Object Builder API (v1), Fabric API Base, Manningham Mills, Fabric Rendering Data Attachment (v1), Fabric Textures (v0), Fabric Rendering Fluids (v1), EasierVillagerTrading, Hwyla, Fabric BlockRenderLayer Registration (v1), Fabric Renderer Registries (v1), MiniHUD, Fabric Loot Tables (v1), Fabric API, Carpet Mod in Fabric, Fabric Networking (v0), Fabric Networking Block Entity (v0), Mod Menu, EasierCrafting, Fabric Tool Attribute API (v1), Fabric Renderer - Indigo, Autofish, AllMusic, Fabric Biomes (v1), Roughly Enough Items, Fabric Events Interaction (v0), Fabric Crash Report Info (v1), Fabric Rendering (v0), Mouse Wheelie, Fabric Rendering (v1), Cloth Config v2, Amecs, Fabric Resource Loader (v0), Auto Config v1 Updated, MaLiLib, Fabric Content Registries (v0), Fabric Tag Extensions (v0), Optifabric, AppleSkin, Fabric Registry Sync (v0), Light Overlay, Giselbaers Durability Viewer, Fabric Mining Levels (v0), VoxelMap, Fabric Events Lifecycle (v0), Fabric Models (v0), Fabric Item Groups (v0), Fabric Object Builders (v0), Tweed API, Optifine Internal Resources
+[19:37:27] [main/INFO]: [OptiFine] *** Reloading textures ***
+[19:37:27] [main/INFO]: [OptiFine] Resource packs: Optifine Internal Resources
+[19:37:27] [main/INFO]: [OptiFine] *** Reflector Forge ***
+[19:37:27] [main/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[19:37:27] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.class_773.getTexture
+[19:37:27] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.class_1299.getTags
+[19:37:27] [main/INFO]: [OptiFine] (Reflector) Field not present: net.minecraft.class_1309.NAMETAG_DISTANCE
+[19:37:27] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.class_3611.getTags
+[19:37:27] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.class_304.setKeyConflictContext
+[19:37:27] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.class_304.setKeyModifierAndCode
+[19:37:27] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.class_304.getKeyModifier
+[19:37:27] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.class_4696.canRenderInLayer
+[19:37:27] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.class_4696.canRenderInLayer
+[19:37:27] [main/INFO]: [OptiFine] *** Reflector Vanilla ***
+[19:37:27] [Server-Worker-6/INFO]: [OptiFine] Multitexture: false
+[19:37:27] [Server-Worker-3/INFO]: [OptiFine] Multitexture: false
+[19:37:27] [Server-Worker-4/INFO]: [OptiFine] Multitexture: false
+[19:37:34] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[19:37:37] [Server-Worker-1/INFO]: [OptiFine] Multitexture: false
+[19:37:37] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_pane_white.properties
+[19:37:37] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_white.properties
+[19:37:37] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_orange.properties
+[19:37:37] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_pane_orange.properties
+[19:37:37] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_magenta.properties
+[19:37:37] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_pane_magenta.properties
+[19:37:37] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_light_blue.properties
+[19:37:37] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_pane_light_blue.properties
+[19:37:37] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_pane_yellow.properties
+[19:37:37] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_yellow.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_lime.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_pane_lime.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pane_pink.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pink.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_gray.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_pane_gray.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_light_gray.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_pane_light_gray.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_cyan.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_pane_cyan.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_pane_purple.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_purple.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_blue.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_pane_blue.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_brown.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_pane_brown.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_green.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_pane_green.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_pane_red.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_red.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_black.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_pane_black.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass_pane.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/30_bookshelf/bookshelf.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/40_sandstone/sandstone.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/41_red_sandstone/red_sandstone.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/00_glass_white/glass_pane_white.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/00_glass_white/glass_white.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/01_glass_orange/glass_orange.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/01_glass_orange/glass_pane_orange.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/02_glass_magenta/glass_magenta.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/02_glass_magenta/glass_pane_magenta.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/03_glass_light_blue/glass_light_blue.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/03_glass_light_blue/glass_pane_light_blue.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/04_glass_yellow/glass_pane_yellow.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/04_glass_yellow/glass_yellow.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/05_glass_lime/glass_lime.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/05_glass_lime/glass_pane_lime.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/06_glass_pink/glass_pane_pink.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/06_glass_pink/glass_pink.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/07_glass_gray/glass_gray.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/07_glass_gray/glass_pane_gray.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/08_glass_light_gray/glass_light_gray.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/08_glass_light_gray/glass_pane_light_gray.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/09_glass_cyan/glass_cyan.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/09_glass_cyan/glass_pane_cyan.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/10_glass_purple/glass_pane_purple.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/10_glass_purple/glass_purple.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/11_glass_blue/glass_blue.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/11_glass_blue/glass_pane_blue.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/12_glass_brown/glass_brown.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/12_glass_brown/glass_pane_brown.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/13_glass_green/glass_green.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/13_glass_green/glass_pane_green.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/14_glass_red/glass_pane_red.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/14_glass_red/glass_red.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/15_glass_black/glass_black.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/15_glass_black/glass_pane_black.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/20_glass/glass.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/20_glass/glass_pane.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/30_bookshelf/bookshelf.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/40_sandstone/sandstone.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/programmer_art/41_red_sandstone/red_sandstone.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] Multipass connected textures: false
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_pane_white.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_white.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_orange.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_pane_orange.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_magenta.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_pane_magenta.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_light_blue.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_pane_light_blue.properties
+[19:37:38] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_pane_yellow.properties
+[19:37:39] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_yellow.properties
+[19:37:39] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_lime.properties
+[19:37:39] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_pane_lime.properties
+[19:37:39] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pane_pink.properties
+[19:37:39] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pink.properties
+[19:37:39] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_gray.properties
+[19:37:39] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_pane_gray.properties
+[19:37:39] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_light_gray.properties
+[19:37:39] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_pane_light_gray.properties
+[19:37:39] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_cyan.properties
+[19:37:39] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_pane_cyan.properties
+[19:37:39] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_pane_purple.properties
+[19:37:39] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_purple.properties
+[19:37:39] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_blue.properties
+[19:37:39] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_pane_blue.properties
+[19:37:39] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_brown.properties
+[19:37:39] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_pane_brown.properties
+[19:37:39] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_green.properties
+[19:37:39] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_pane_green.properties
+[19:37:39] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_pane_red.properties
+[19:37:39] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_red.properties
+[19:37:39] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_black.properties
+[19:37:39] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_pane_black.properties
+[19:37:39] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass.properties
+[19:37:39] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass_pane.properties
+[19:37:39] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/30_bookshelf/bookshelf.properties
+[19:37:39] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/40_sandstone/sandstone.properties
+[19:37:39] [Server-Worker-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/41_red_sandstone/red_sandstone.properties
+[19:37:39] [Server-Worker-1/INFO]: [OptiFine] Multipass connected textures: false
+[19:37:39] [Server-Worker-1/INFO]: [OptiFine] BetterGrass: Parsing configuration optifine/bettergrass.properties
+[19:37:46] [Server-Worker-1/INFO]: [OptiFine] Mipmap levels: 4
+[19:37:48] [Server-Worker-1/INFO]: [OptiFine] Multitexture: false
+[19:37:48] [Server-Worker-1/INFO]: [OptiFine] Sprite size: 64
+[19:37:48] [Server-Worker-1/INFO]: [OptiFine] Mipmap levels: 6
+[19:37:48] [Server-Worker-1/INFO]: [OptiFine] Multitexture: false
+[19:37:49] [Server-Worker-1/INFO]: [OptiFine] Sprite size: 64
+[19:37:49] [Server-Worker-1/INFO]: [OptiFine] Mipmap levels: 6
+[19:37:49] [Server-Worker-1/INFO]: [OptiFine] Multitexture: false
+[19:37:49] [Server-Worker-1/INFO]: [OptiFine] Sprite size: 64
+[19:37:49] [Server-Worker-1/INFO]: [OptiFine] Mipmap levels: 6
+[19:37:49] [Server-Worker-1/INFO]: [OptiFine] Multitexture: false
+[19:37:49] [Server-Worker-1/INFO]: [OptiFine] Sprite size: 64
+[19:37:49] [Server-Worker-1/INFO]: [OptiFine] Mipmap levels: 6
+[19:37:49] [Server-Worker-1/INFO]: [OptiFine] Multitexture: false
+[19:37:49] [Server-Worker-1/INFO]: [OptiFine] Sprite size: 64
+[19:37:49] [Server-Worker-1/INFO]: [OptiFine] Mipmap levels: 6
+[19:37:49] [Server-Worker-1/INFO]: [OptiFine] Multitexture: false
+[19:37:49] [Server-Worker-1/INFO]: [OptiFine] Sprite size: 64
+[19:37:49] [Server-Worker-1/INFO]: [OptiFine] Mipmap levels: 6
+[19:37:49] [main/INFO]: OpenAL initialized.
+[19:37:49] [main/INFO]: Sound engine started
+[19:37:50] [main/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[19:37:50] [main/INFO]: [OptiFine] Animated sprites: 35
+[19:37:50] [main/INFO]: Created: 128x128x4 minecraft:textures/atlas/signs.png-atlas
+[19:37:50] [main/INFO]: [OptiFine] Animated sprites: 0
+[19:37:50] [main/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[19:37:50] [main/INFO]: [OptiFine] Animated sprites: 0
+[19:37:50] [main/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[19:37:50] [main/INFO]: [OptiFine] Animated sprites: 0
+[19:37:50] [main/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[19:37:50] [main/INFO]: [OptiFine] Animated sprites: 0
+[19:37:50] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[19:37:50] [main/INFO]: [OptiFine] Animated sprites: 0
+[19:37:50] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[19:37:50] [main/INFO]: [OptiFine] Animated sprites: 0
+[19:37:50] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[19:37:50] [main/INFO]: [OptiFine] Animated sprites: 0
+[19:37:50] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[19:37:50] [main/INFO]: [OptiFine] Animated sprites: 0
+[19:37:50] [main/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[19:37:50] [main/INFO]: [OptiFine] Animated sprites: 0
+[19:37:50] [main/INFO]: [OptiFine] *** Reloading custom textures ***
+[19:37:54] [main/INFO]: [OptiFine] Disable Forge light pipeline
+[19:37:54] [main/INFO]: Reloaded configs for mousewheelie
+[19:37:54] [main/INFO]: [STDOUT]: CATEGORY ORDER IS 13
+[19:37:54] [main/INFO]: Created: 256x256 waypoints-atlas
+[19:37:55] [main/INFO]: Created: 256x128 chooser-atlas
+[19:37:56] [main/INFO]: Created: 512x256 mobs-atlas
+[19:37:56] [main/INFO]: Created: 64x64 pings-atlas
+[19:38:59] [main/ERROR]: Can't ping sq.na4.xyz:20831: 连接中止
+[19:39:48] [MCO Compatability Checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[19:39:48] [MCO Compatability Checker #1/ERROR]: Couldn't connect to realms: 
+[19:39:50] [main/INFO]: Stopping!

@@ -1,0 +1,13 @@
+subworlds:PVP,主世界,主城,商业街,地狱,末地,资源,迷宮,阿华他家,
+oldNorthWorlds:
+seeds:
+name:65201,x:683,z:-1356,y:69,enabled:true,red:0.9019608,green:0.015686275,blue:0.0,suffix:,world:,dimensions:overworld#
+name:1,x:-5744,z:21880,y:60,enabled:true,red:0.3001985,green:0.7200403,blue:0.8488583,suffix:,world:,dimensions:the_nether#
+name:2,x:-5040,z:21968,y:30,enabled:true,red:0.7593396,green:0.8043158,blue:0.47172725,suffix:,world:,dimensions:the_nether#
+name:lc,x:527,z:-1777,y:71,enabled:true,red:0.51773554,green:0.7535072,blue:0.95046747,suffix:,world:,dimensions:overworld#
+name:WSD,x:664,z:-15482,y:76,enabled:true,red:0.7328954,green:0.15838736,blue:0.08578783,suffix:,world:,dimensions:overworld#
+name:1,x:2292,z:359,y:4,enabled:true,red:0.26306027,green:0.6568199,blue:0.82933724,suffix:,world:,dimensions:overworld#
+name:2,x:3142,z:583,y:69,enabled:true,red:0.9305478,green:0.35727233,blue:0.54526645,suffix:,world:,dimensions:overworld#
+name:村庄1,x:4382,z:-728,y:82,enabled:true,red:0.43440187,green:0.5985564,blue:0.9449316,suffix:,world:资源,dimensions:overworld#
+name:村庄2,x:5824,z:-713,y:79,enabled:true,red:0.9497919,green:0.39817083,blue:0.32680368,suffix:,world:资源,dimensions:overworld#
+name:村庄3,x:8724,z:-1753,y:69,enabled:true,red:0.6312237,green:0.15024996,blue:0.3075438,suffix:,world:资源,dimensions:overworld#

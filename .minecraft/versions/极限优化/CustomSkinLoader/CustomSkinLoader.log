@@ -1,0 +1,17 @@
+[2020-07-25 19:46:32] [Render thread INFO] CustomSkinLoader 14.12-SNAPSHOT-109
+[2020-07-25 19:46:32] [Render thread INFO] DataDir: C:\Users\91983\Desktop\客户端\.minecraft\versions\极限优化\CustomSkinLoader
+[2020-07-25 19:46:32] [Render thread INFO] Minecraft: null(极限优化)
+[2020-07-25 19:46:32] [Render thread INFO] Config File: C:\Users\91983\Desktop\客户端\.minecraft\versions\极限优化\CustomSkinLoader\CustomSkinLoader.json
+[2020-07-25 19:46:32] [Render thread INFO] Try to load config.
+[2020-07-25 19:46:32] [Render thread INFO] Successfully load config.
+[2020-07-25 19:46:32] [Render thread INFO] version : 14.12
+[2020-07-25 19:46:32] [Render thread INFO] enableDynamicSkull : true
+[2020-07-25 19:46:32] [Render thread INFO] enableTransparentSkin : true
+[2020-07-25 19:46:32] [Render thread INFO] ignoreHttpsCertificate : false
+[2020-07-25 19:46:32] [Render thread INFO] forceLoadAllTextures : false
+[2020-07-25 19:46:32] [Render thread INFO] enableCape : true
+[2020-07-25 19:46:32] [Render thread INFO] cacheExpiry : 30
+[2020-07-25 19:46:32] [Render thread INFO] enableUpdateSkull : false
+[2020-07-25 19:46:32] [Render thread INFO] enableLocalProfileCache : false
+[2020-07-25 19:46:32] [Render thread INFO] enableCacheAutoClean : false
+[2020-07-25 19:46:32] [Render thread INFO] loadList : 7
